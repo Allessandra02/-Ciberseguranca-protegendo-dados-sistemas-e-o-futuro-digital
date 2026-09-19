@@ -1055,6 +1055,27 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 ---
 ## 👤 Feedback para Alessandra Guimarães
 
+### 🔍 Avaliação feita por Alison Belen
+* **📌 Qualidade e consistência dos perfis digitais:** A Alessandra possui a presença digital mais completa e estruturada do grupo. O uso do GitHub com README pessoal e repositório público (UX/UI no Figma), somado ao Instagram profissional e DEV.to ativo, demonstra alto engajamento.
+* **🎯 Plano de carreira:** Extremamente detalhado e abrangente, cobrindo a evolução ano a ano de 2026 a 2032 com foco claro em Blue Team, SOC e pós-graduação na FIAP.
+* **📊 PDI:** PDI estruturado com precisão, dividido em blocos temporais com metas de hard/soft skills, prazos, plataformas e indicadores objetivos.
+* **💡 Sugestões de melhoria:** Como o repositório público atual é voltado a UX/UI, a prioridade deve ser adicionar projetos práticos voltados diretamente à Cibersegurança (ex.: análise de logs, scripts de automação em Python ou simulações de redes).
+
+---
+### 🔍 Avaliação feita por Rafael Christian
+* **📌 Qualidade e consistência dos perfis digitais:** Excelente posicionamento em todas as plataformas analisadas. O crescimento da rede no LinkedIn e a presença ativa no DEV.to e Instagram evidenciam a construção consistente de sua marca pessoal.
+* **🎯 Plano de carreira:** Muito maduro e realista. A estratégia de buscar oportunidades iniciais em TI/Suporte/Redes em 2026 para construir bagagem prática antes de afunilar exclusivamente para SOC em 2028 é perfeita.
+* **📊 PDI:** As metas envolvendo o TryHackMe (Cyber Security 101 e SOC Level 1) e o estudo do framework MITRE ATT&CK agregam um valor técnico diferenciado.
+* **💡 Sugestões de melhoria:** Manter a consistência de postagens no LinkedIn e DEV.to. No GitHub, começar a publicar *write-ups* de salas do TryHackMe em formato de repositórios organizados.
+
+---
+### 🔍 Avaliação feita por Samuel Carmoni
+* **📌 Qualidade e consistência dos perfis digitais:** A dedicação na construção da presença digital é notável. Headline direta, bio objetiva e postagens que conectam conteúdos da graduação (como a linguagem C) aos conceitos de segurança defensiva.
+* **🎯 Plano de carreira:** A clareza quanto ao desejo de seguir uma carreira técnica especialista (sem focar em gestão de pessoas) alinha-se perfeitamente com os perfis de Blue Team e SOC.
+* **📊 PDI:** Cronograma exemplar, distribuindo os estudos práticos em plataformas de referência no mercado.
+* **💡 Sugestões de melhoria:** Integrar os conhecimentos declarados de Engenharia de Prompt e Modelagem com a Cibersegurança em um projeto autoral no GitHub (ex.: criação de documentação de incidentes com suporte de IA ou modelagem BPMN de um fluxo de atendimento em SOC).
+  
+---
 
 ## 👤 Feedback para Alison Belen
 
@@ -1063,6 +1084,20 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 * **🎯 Plano de carreira:** O plano de carreira está bem estruturado cronologicamente, apresentando objetivos realistas a curto, médio e longo prazo, alinhados à área de Cibersegurança.
 * **📊 PDI:** O PDI está coerente com as necessidades de um perfil iniciante, abrangendo pilares essenciais como redes, cibersegurança e lógica de programação. No entanto, falta definir prazos mais específicos e indicadores mensuráveis para acompanhar o progresso real.
 * **💡 Sugestões de melhoria:** Recomendo criar repositórios públicos no GitHub, mesmo que sejam exercícios de aula ou pequenos scripts em Python. No LinkedIn, vale a pena otimizar a headline adicionando palavras-chave como *Linux*, *Redes* ou *Python* para aumentar a visibilidade em buscas de recrutadores.
+
+---
+### 🔍 Avaliação feita por Rafael Christian
+* **📌 Qualidade e consistência dos perfis digitais:** O Alison estabeleceu um bom ponto de partida, mas os perfis digitais ainda não transmitem a autoridade técnica necessária para a área de Segurança da Informação. No GitHub, a ausência de repositórios públicos limita a demonstração prática de hard skills.
+* **🎯 Plano de carreira:** A visão de transição progressiva da programação para a cibersegurança é consistente e respeita as etapas fundamentais de aprendizado.
+* **📊 PDI:** Apresenta boas intenções quanto aos tópicos de estudo, mas peca na falta de detalhamento das plataformas práticas que serão utilizadas (ex.: TryHackMe, Cisco Networking Academy, Hack The Box).
+* **💡 Sugestões de melhoria:** Sugiro criar e fixar no GitHub pelo menos um repositório com documentação clara (README bem formatado) abordando laboratórios de redes ou lógica de programação. Também recomendo começar a interagir em publicações do LinkedIn voltadas para a comunidade de Blue Team/SOC.
+
+---
+### 🔍 Avaliação feita por Samuel Carmoni
+* **📌 Qualidade e consistência dos perfis digitais:** Alison demonstra transparência ao reconhecer que os perfis são recentes e possuem pouca atividade. Essa autocrítica é positiva, mas é preciso acelerar a construção do posicionamento profissional para o mercado.
+* **🎯 Plano de carreira:** O foco em longo prazo na área de cibersegurança alinha-se perfeitamente com a proposta do grupo. Senti falta de afunilar qual a "porta de entrada" almejada no curto prazo (ex.: Suporte, Estágio em TI ou SOC N1).
+* **📊 PDI:** As metas cobrem bem os pilares de infraestrutura e programação, necessitando apenas de critérios de medição mais acionáveis e prazos delimitados.
+* **💡 Sugestões de melhoria:** Defina uma meta semanal de conexões no LinkedIn com recrutadores de TI e profissionais de cibersegurança. Explore também a criação de um perfil no DEV.to para postar resumos dos conteúdos aprendidos na faculdade.
 
 ---
 
@@ -1075,6 +1110,20 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 * **💡 Sugestões de melhoria:** Trazer o conteúdo rico das postagens do LinkedIn para artigos mais aprofundados no DEV.to. No GitHub, criar o repositório especial de perfil (`Rafael44Christian/Rafael44Christian`) para adicionar um README estilizado com suas habilidades e links sociais.
 
 ---
+### 🔍 Avaliação feita por Alison Belen
+* **📌 Qualidade e consistência dos perfis digitais:** O Rafael possui uma excelente presença ativa no LinkedIn, publicando frequentemente sobre Docker, Cloud, microsserviços e Cibersegurança. Seu perfil no DEV.to e Instagram profissional mostram um ecossistema de redes muito maduro. O ponto a ser desenvolvido é o GitHub, que ainda não possui projetos públicos.
+* **🎯 Plano de carreira:** Plano extremamente detalhado, conectando com clareza o aprendizado técnico com cargos reais de entrada no mercado, como SOC N1 ou Analista Júnior.
+* **📊 PDI:** O PDI em formato de tabela é um dos mais completos, apresentando prazos claros, ações definidas e indicadores totalmente mensuráveis.
+* **💡 Sugestões de melhoria:** Priorizar com urgência a publicação dos scripts em Python e laboratórios de Linux/Redes que estuda no GitHub, convertendo a teoria apresentada no LinkedIn em repositórios práticos.
+
+---
+### 🔍 Avaliação feita por Samuel Carmoni
+* **📌 Qualidade e consistência dos perfis digitais:** Destaca-se pelo alto nível de atividade no LinkedIn e pela diversificação da presença digital em outras plataformas. A lacuna de repositórios no GitHub destoa do ótimo nível de engajamento demonstrado nas redes.
+* **🎯 Plano de carreira:** A transição do curto prazo (fundamentos de redes/Linux) para o médio prazo (SOC / Blue Team) reflete com precisão as exigências do mercado de trabalho.
+* **📊 PDI:** A inclusão de metas voltadas à comunicação técnica e ao networking demonstra uma visão diferenciada sobre soft skills.
+* **💡 Sugestões de melhoria:** Recomendo transformar os laboratórios práticos do TryHackMe em *write-ups* (relatórios técnicos) e publicá-los no DEV.to e no GitHub.
+
+---
 
 ## 👤 Feedback para Samuel Carmoni 
 
@@ -1083,6 +1132,20 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 * **🎯 Plano de carreira:** Estruturado com foco na realidade do mercado. A ponte construída entre sua experiência em atendimento ao público e a soft skill de *Comunicação de Risco* em cibersegurança foi uma excelente sacada.
 * **📊 PDI:** Muito bem construído, priorizando plataformas de ensino acessíveis como TryHackMe e Cisco Networking Academy.
 * **💡 Sugestões de melhoria:** Subir os projetos acadêmicos citados (PetCare Manager e o aplicativo do MetroScape RPG) para o GitHub o quanto antes, preenchendo a lacuna do portfólio. Ativar o recurso *"Open to Work"* no LinkedIn direcionado para Estágio em TI/Segurança.
+
+---
+### 🔍 Avaliação feita por Alison Belen
+* **📌 Qualidade e consistência dos perfis digitais:** O Samuel fez uma análise crítica muito madura do seu perfil do LinkedIn, reconhecendo que limitar a visualização ao cargo de atendente reduz sua atratividade para vagas de TI. O GitHub e o DEV.to ainda necessitam de preenchimento e projetos.
+* **🎯 Plano de carreira:** Excelente direcionamento. A meta de buscar estágios em SOC N1 ou Cyber Security e utilizar suas soft skills de atendimento ao cliente como diferencial competitivo é um ponto muito forte.
+* **📊 PDI:** O PDI abrange precisamente os pontos de desenvolvimento atuais (Redes, Linux, SIEM e Inglês) com metodologias práticas de acompanhamento.
+* **💡 Sugestões de melhoria:** Atualizar imediatamente a headline do LinkedIn para destacar seu objetivo profissional na área de tecnologia (ex.: *"Estudante de ADS | Em transição para Cibersegurança & SOC"*), mantendo a experiência atual nas descrições detalhadas do cargo.
+
+---
+### 🔍 Avaliação feita por Rafael Christian
+* **📌 Qualidade e consistência dos perfis digitais:** Análise reflexiva impecável sobre seu estado atual. Embora o volume de conexões e publicações ainda seja baixo, o diagnóstico das correções necessárias está perfeitamente alinhado às exigências da atividade.
+* **🎯 Plano de carreira:** A definição específica da vaga-alvo (SOC N1 / Estágio em Cibersegurança) evita metas genéricas e demonstra alinhamento com os requisitos do mercado.
+* **📊 PDI:** A inclusão do estudo de Inglês técnico e de simulações de resposta a incidentes/playbooks demonstra visão ampla da rotina operacional de segurança.
+* **💡 Sugestões de melhoria:** Adicionar uma bio técnica na conta do DEV.to e publicar ao menos um artigo resumindo aprendizados de redes da graduação. Adicionar descrições orientadas a resultados nas experiências profissionais passadas do LinkedIn.
 
 ---
 
