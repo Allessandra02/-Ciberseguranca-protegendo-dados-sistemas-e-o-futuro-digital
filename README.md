@@ -124,4 +124,79 @@ As vagas abaixo foram levantadas no **Glassdoor Brasil** em **setembro/2026**, a
 📌 **O que esses números revelam:** o funil é bastante estreito na base. Enquanto o termo "Especialista em Segurança da Informação" retorna 780 vagas na capital, o recorte de estágio fica em 7 — uma proporção de mais de **100 para 1**. O mercado de cibersegurança em São Paulo está contratando muito, mas contratando principalmente **quem já tem experiência**. Esse é o gap central que o grupo precisará endereçar no plano de ação da conclusão.
 
 ---
+## 1.3 🧠 Mapeamento de Competências
+
+### 1.3.1 ⚙️ Hard Skills (técnicas)
+
+- 🌐 Conhecimento de **redes de computadores**, firewalls, VPNs e sistemas de detecção/prevenção de intrusão (IDS/IPS);
+- 💻 Fundamentos de **sistemas operacionais** (Windows e Linux);
+- ☁️ **Cloud Security** — controles de segurança em nuvem (AWS, Azure, GCP);
+- 🕵️ Testes de penetração (**pentest**) e auditorias de segurança;
+- 📋 Frameworks e normas de segurança, como **NIST**, **ISO/IEC 27001** e **SOC 2**;
+- 🚨 Análise de vulnerabilidades e resposta a incidentes (uso de **SIEM**);
+- 🎖️ Certificações valorizadas pelo mercado: **CompTIA Security+, CISSP, Cisco, AWS/Azure Security**;
+- 🗣️ **Inglês técnico**, essencial para documentação, ferramentas e oportunidades internacionais.
+
+### 1.3.2 🤝 Soft Skills (comportamentais)
+
+- 💬 **Comunicação clara** — traduzir riscos técnicos complexos para públicos não técnicos (diretoria, RH, financeiro);
+- 🧩 **Pensamento crítico e resolução de problemas** sob pressão, especialmente em incidentes (ex.: ransomware);
+- 🧘 **Calma e clareza mental** para seguir playbooks de resposta a incidentes sem se desesperar;
+- 👥 **Trabalho em equipe** e colaboração próxima com outras áreas de TI;
+- 🚀 **Proatividade e aprendizado contínuo**, dado o ritmo acelerado de evolução das ameaças;
+- 📝 Fortes habilidades de **pesquisa e redação**, úteis na criação e aplicação de políticas de segurança.
+
+### 1.3.3 🔗 Competências exigidas nas vagas mapeadas
+
+Esta subseção conecta a Seção 1.2 (vagas reais) à Seção 1.3. As competências abaixo foram extraídas das descrições dos anúncios; quando a descrição pública não especificava soft skills, o campo indica isso — nenhuma competência foi presumida.
+
+#### 🖥️ Analista de SOC
+
+| Nível · Vaga | Hard Skills exigidas | Soft Skills exigidas |
+|---|---|---|
+| 🌱 Estágio · Vita IT | Conceitos básicos de redes e de segurança da informação; inglês para leitura técnica | Perfil descrito como "mentes curiosas", com "sede de aprendizado" e disposição para interagir com as equipes de Redes e Segurança |
+| 🌿 Júnior · PagBank | Monitoramento e suporte operacional de redes e segurança; WAN; SIEM | Não especificadas no trecho público da descrição |
+| ⚙️ Pleno · logical IT | Rotinas e checklists de SOC; triagem de eventos; SIEM; Processos de atendimento e gestão de tickets (ITSM) |Colaboração e trabalho em equipe;Comunicação clara e objetiva; |
+| 🚀 Sênior · Inteligencia de Segurança Tempest  | Troubleshooting de conectividade e incidentes; firewalls Check Point; SIEM; Network Security, Python | Não especificadas no trecho público da descrição |
+
+#### 🛡️ Cibersegurança e 🔐 Analista de Segurança da Informação
+
+| Nível · Vaga | Hard Skills exigidas | Soft Skills exigidas |
+|---|---|---|
+| 🌱 Estágio · Vita IT | Redes e segurança da informação em nível básico; inglês técnico; diferencial em CTFs e hackathons | Curiosidade, sede de aprendizado, colaboração |
+| 🌿 Júnior · PWC | Fundamentos de segurança da informação aplicados a ambiente corporativo | Não especificadas no trecho público da descrição |
+| ⚙️ Pleno · Empresa DUX | Segurança de Aplicações (AppSec); identificação e mitigação de vulnerabilidades no ciclo de desenvolvimento | Não especificadas no trecho público da descrição |
+| 🚀 Sênior · Santander | Gestão de acessos privilegiados — cofre de senhas (PAM) e controles de IAM | Não especificadas no trecho público da descrição |
+
+
+### 🧾 Leitura consolidada do mapeamento
+
+- 🌱 **Base comum:** os três cargos-alvo compartilham o mesmo ponto de partida — **redes + sistemas operacionais + inglês técnico**. Nenhum deles se diferencia antes do nível júnior, o que significa que os quatro integrantes devem investir nos mesmos fundamentos neste momento.
+- 🛠️ **SIEM é o divisor:** a ferramenta aparece em praticamente todas as vagas de SOC, em todos os níveis. Quem mira essa função precisa de prática real com Wazuh, Splunk ou QRadar — não basta conhecer o conceito.
+- 📋 **Frameworks entram cedo:** ISO 27001, NIST e LGPD já são cobrados no nível **júnior** das vagas de Segurança da Informação. É o item de estudo com melhor custo-benefício para quem quer entrar na área.
+- 🚀 **Topo especializado:** as vagas sêniores da capital praticamente não pedem "segurança" de forma genérica — pedem IAM/PAM, Network Security, AppSec, GRC. A área se sofisticou e exige trilhas bem definidas.
+- 🎯 **Implicação para o grupo:** a base comum, o ponto de bifurcação e o gargalo de vagas de entrada serão o eixo da análise de gaps e do plano de ação de cada integrante nos capítulos individuais.
+
+---
+
+# 📚 Fontes
+
+**Vagas (consulta em setembro/2026):**
+
+- 🐙 Glassdoor Brasil — descrições das vagas individuais e painéis de busca filtrados por cargo e cidade, citados nas tabelas da Seção 1.2
+
+**Mercado e salários:**
+
+- 📊 Robert Half — [Guia Salarial 2026: Tecnologia](https://www.roberthalf.com/br/pt/insights/guia-salarial/tecnologia)
+- 📰 IT Forum — [Salário de profissionais de cibersegurança chega a R$ 24,6 mil no Brasil](https://itforum.com.br/noticias/salarios-ciberseguranca-brasil-2026/)
+- 📈 Portal Salário — [Especialista em Segurança da Informação](https://www.salario.com.br/profissao/especialista-em-seguranca-da-informacao-cbo-212320/)
+- 💵 Salário Transparente — [Analista de Segurança da Informação](https://salariotransparente.com.br/salarios/analista-cyber-security)
+- 📰 Correio Braziliense — [Profissão em alta: quanto ganha um especialista em cibersegurança?](https://www.correiobraziliense.com.br/aqui/2026/07/23/profissao-em-alta-quanto-ganha-um-especialista-em-ciberseguranca/)
+- 🔐 HackerSec — [Salários de Cibersegurança no Brasil](https://hackersec.com/blog/salarios-de-ciberseguranca-no-brasil?lang=en)
+- 🖥️ InvGate — [Mercado de TI no Brasil em 2026](https://blog.invgate.com/pt/mercado-para-ti)
+
+**Competências:**
+
+- 🌎 Nomad Global — [Hard skills mais procuradas no mercado internacional](https://www.nomadglobal.com/conteudos/hard-skills-mais-procuradas)
+- 🧠 CECyber — [Habilidades necessárias para atuar em cibersegurança](https://cecyber.com/blog/quais-habilidades-sao-necessarias-para-trabalhar-em-seguranca-cibernetica/)
 
