@@ -200,3 +200,476 @@ Esta subseção conecta a Seção 1.2 (vagas reais) à Seção 1.3. As competên
 - 🌎 Nomad Global — [Hard skills mais procuradas no mercado internacional](https://www.nomadglobal.com/conteudos/hard-skills-mais-procuradas)
 - 🧠 CECyber — [Habilidades necessárias para atuar em cibersegurança](https://cecyber.com/blog/quais-habilidades-sao-necessarias-para-trabalhar-em-seguranca-cibernetica/)
 
+# Capítulos Individuais
+
+
+
+# 📇 Capítulo Individual — Alessandra Guimarães da Silva
+
+> Análise do GitHub, LinkedIn, Instagram, DEV.to, Plano de Carreira e PDI
+
+---
+
+## 🐙 Análise do GitHub
+
+### 1️⃣ Identificação do perfil
+
+- O perfil analisado pertence a **Alessandra Guimarães**, com o nome de usuário **`Allessandra02`**.
+- Atualmente, o perfil apresenta a estudante como cursando **Análise e Desenvolvimento de Sistemas (ADS)** e construindo uma base sólida em lógica de programação.
+- O perfil possui um **README pessoal**, utilizado para apresentar informações relacionadas à formação acadêmica, conhecimentos, ferramentas e interesses profissionais.
+- O GitHub também faz parte da construção da presença profissional da estudante na área de tecnologia, funcionando como espaço para apresentação de projetos e conhecimentos desenvolvidos ao longo da formação.
+
+### 2️⃣ Repositórios públicos
+
+- O perfil possui atualmente **1 repositório público**.
+- O repositório disponível é o **`intima-universo-ux-ui`**, relacionado a um projeto acadêmico de UX/UI para uma plataforma de gestão jurídica.
+- O projeto possui **2 estrelas ⭐**, sendo o repositório com maior quantidade de estrelas do perfil.
+- A proposta do projeto é voltada para profissionais da área jurídica, com funcionalidades relacionadas à organização de intimações, publicações, acompanhamento processual e prazos.
+- O projeto demonstra conhecimentos desenvolvidos durante a formação em ADS, principalmente nas áreas de:
+  - 📋 levantamento e organização de requisitos;
+  - 📄 documentação de sistemas;
+  - 🔄 modelagem de processos;
+  - 🧭 definição de fluxos;
+  - 🗂️ organização de informações;
+  - 🎨 UX/UI;
+  - 🖼️ prototipação de interfaces.
+- Entre as ferramentas utilizadas, destaca-se o **Figma**, empregado na elaboração das interfaces e protótipos.
+- Dessa forma, o repositório demonstra que a estudante possui conhecimentos iniciais que vão além da programação, envolvendo também análise, documentação, modelagem e prototipação de sistemas.
+
+### 3️⃣ Evolução de seguidores e interação com a comunidade
+
+- Inicialmente, o perfil possuía **3 seguidores** e não seguia nenhuma conta na plataforma.
+- Atualmente, o perfil mantém **3 seguidores** e passou a seguir **41 contas**.
+- A quantidade de seguidores permaneceu **estável em 3**, enquanto houve um aumento de **0 para 41 contas seguidas**.
+- Essa mudança demonstra uma ampliação da interação da estudante com a comunidade do GitHub, passando a acompanhar outros usuários relacionados à área de tecnologia.
+- Entre as contas acompanhadas estão estudantes e profissionais que possuem conteúdos relacionados a **desenvolvimento, análise de dados e tecnologia**.
+- Embora a quantidade de seguidores ainda não tenha aumentado, a ampliação das contas acompanhadas demonstra uma iniciativa de **construção de networking e acompanhamento da comunidade profissional** do GitHub.
+
+### 4️⃣ GitHub como portfólio técnico
+
+- O perfil encontra-se em fase inicial de construção de um portfólio profissional.
+- A presença de um repositório público permite apresentar um projeto acadêmico concreto e demonstrar conhecimentos adquiridos durante a graduação.
+- O README pessoal contribui para organizar as informações do perfil e facilitar a identificação da formação e dos conhecimentos da estudante.
+- Apesar de o projeto disponível apresentar conhecimentos relevantes de ADS, UX/UI, documentação e modelagem, ainda não há no perfil um projeto público especificamente voltado à **Cibersegurança**.
+- Considerando o direcionamento profissional para Cibersegurança, a inclusão gradual de projetos relacionados à área poderá ampliar a demonstração de conhecimentos técnicos e aproximar o portfólio dos objetivos profissionais da estudante.
+
+---
+
+## 💼 Análise do LinkedIn
+
+### 1️⃣ Cargo Alvo e Stack
+
+- Perfil analisado: **Alessandra Guimarães**.
+- Formação atual: estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
+- Área de atuação desejada: **Cibersegurança**.
+- Cargo-alvo: **Analista de SOC** (Security Operations Center).
+- Direcionamento: **Blue Team**, com foco na área defensiva da Cibersegurança.
+- Nível de experiência: nível inicial, pois a estudante ainda está em processo de formação e não possui experiência profissional como Analista de SOC.
+- Objetivo profissional: desenvolver conhecimentos técnicos e adquirir experiência prática para futuramente atuar na área de SOC.
+
+**🛠️ Stack e conhecimentos declarados**
+
+Entre os conhecimentos e ferramentas apresentados no perfil estão:
+
+- Lógica de programação;
+- Modelagem de sistemas;
+- BPMN;
+- Engenharia de requisitos;
+- Documentação técnica;
+- Engenharia de Prompt;
+- Figma;
+- Prototipação;
+- Inteligência Artificial Generativa;
+- Utilização de ferramentas como **ChatGPT, Gemini, Claude e Lovable**.
+
+Esses conhecimentos representam a base técnica que a estudante possui atualmente. Os conhecimentos específicos relacionados à atuação em SOC e Blue Team ainda estão em desenvolvimento por meio da formação acadêmica e dos estudos direcionados à Cibersegurança.
+
+### 2️⃣ Headline Profissional
+
+> **"Estudante de ADS | Estudante de Cibersegurança | Futura Analista de SOC | Engenharia de Prompt | Modelagem de Sistemas"**
+
+**✅ Clareza**
+
+- A headline apresenta de forma direta a formação acadêmica atual da estudante.
+- Identifica a área profissional de interesse, representada por Cibersegurança.
+- Apresenta o cargo que a estudante pretende alcançar, por meio da expressão **"Futura Analista de SOC"**.
+- Também apresenta conhecimentos já desenvolvidos, como Engenharia de Prompt e Modelagem de Sistemas.
+- O uso das expressões "Estudante" e "Futura" deixa claro que o cargo de Analista de SOC representa um objetivo profissional e não uma experiência que a estudante já possui.
+
+**🔑 Palavras-chave**
+
+`ADS` · `Cibersegurança` · `SOC` · `Engenharia de Prompt` · `Modelagem de Sistemas`
+
+As palavras-chave estão relacionadas tanto à formação atual quanto ao direcionamento profissional apresentado no perfil.
+
+**📊 Alinhamento com o mercado**
+
+- A presença de "Cibersegurança" e "SOC" direciona o perfil para a área profissional pretendida.
+- A expressão "Estudante de Cibersegurança" demonstra que a estudante está em processo de formação na área.
+- A expressão "Futura Analista de SOC" apresenta o objetivo profissional sem indicar uma experiência que ainda não foi adquirida.
+- Engenharia de Prompt e Modelagem de Sistemas complementam a headline ao representar conhecimentos que fazem parte da formação atual.
+
+De forma geral, a headline apresenta uma relação entre formação, conhecimentos atuais, área de interesse e objetivo profissional, mantendo uma distinção entre o momento atual da estudante e sua meta de carreira.
+
+### 3️⃣ Crescimento da Rede
+
+A rede do LinkedIn apresentou crescimento desde o início do acompanhamento do perfil.
+
+**📈 Evolução dos seguidores**
+
+| Momento | Seguidores |
+|---|---|
+| Anteriormente | 8 |
+| Atualmente | 35 |
+| **Crescimento** | **+27 (📈 337,5%)** |
+
+Esse crescimento demonstra uma ampliação da visibilidade do perfil na plataforma e indica que a rede profissional está sendo construída gradualmente.
+
+**➡️ Evolução de pessoas seguidas**
+
+| Momento | Seguindo |
+|---|---|
+| Anteriormente | 14 |
+| Atualmente | 15 |
+| **Crescimento** | **+1** |
+
+A pequena variação nesse número indica que o crescimento do perfil ocorreu principalmente pelo aumento de seguidores e conexões, e não apenas pelo aumento da quantidade de perfis seguidos.
+
+**🔗 Conexões**
+
+- Atualmente, o perfil possui **33 conexões**.
+- A rede ainda está em processo de expansão, principalmente por meio de contatos com estudantes e pessoas relacionadas à área de tecnologia.
+- Algumas pessoas da turma ainda não aceitaram as solicitações de conexão, portanto, a rede poderá continuar crescendo após a aceitação dessas solicitações.
+
+A evolução de 8 para 35 seguidores demonstra uma mudança significativa em relação ao início do acompanhamento do perfil, permitindo identificar uma tendência de crescimento da presença profissional na plataforma.
+
+### 4️⃣ Atividade e Engajamento
+
+- Atualmente, o perfil possui **2 publicações**.
+- A estudante está desenvolvendo uma rotina de publicações semanais, seguindo a atividade proposta pela disciplina.
+- A estratégia de participação também inclui a realização de comentários em publicações de colegas de turma.
+- Além das interações com colegas, a estudante busca comentar publicações de pessoas externas à faculdade relacionadas à Cibersegurança.
+- Os conteúdos acompanhados e produzidos possuem relação com o direcionamento profissional para Cibersegurança e SOC.
+
+**🎯 Estratégia de desenvolvimento da presença profissional**
+
+A utilização do LinkedIn não está limitada à apresentação das informações acadêmicas. O perfil também está sendo utilizado para:
+
+- 📝 Registrar aprendizados relacionados à Cibersegurança;
+- 📢 Compartilhar conteúdos relacionados à área de interesse;
+- 💬 Interagir com colegas e profissionais;
+- 🌐 Ampliar gradualmente a rede de contatos;
+- 🛡️ Desenvolver uma presença profissional relacionada à área de SOC e Blue Team.
+
+Como o perfil ainda está em fase inicial de desenvolvimento, a frequência e a variedade das publicações podem ser ampliadas ao longo do tempo, acompanhando a evolução dos estudos e dos projetos acadêmicos.
+
+### 5️⃣ Análise Geral do LinkedIn
+
+- O perfil encontra-se em fase de construção da presença profissional.
+- A formação em ADS é apresentada como a base acadêmica atual.
+- A Cibersegurança aparece como a área de direcionamento profissional.
+- O objetivo de atuar futuramente como Analista de SOC está apresentado de forma explícita.
+- A headline utiliza palavras-chave relacionadas à formação, aos conhecimentos atuais e ao cargo-alvo.
+- A rede apresentou crescimento de 8 para 35 seguidores, além do aumento de 14 para 15 perfis seguidos.
+- O perfil possui atualmente 33 conexões, com possibilidade de crescimento após a aceitação de solicitações ainda pendentes.
+- A estudante possui 2 publicações e está desenvolvendo uma rotina de interação por meio de publicações e comentários.
+- A presença no LinkedIn está sendo construída de maneira gradual, acompanhando o desenvolvimento acadêmico e o direcionamento para Cibersegurança, SOC e Blue Team.
+
+**🏁 Conclusão da análise**
+
+De maneira geral, o LinkedIn apresenta coerência entre a formação acadêmica atual, os conhecimentos declarados e o objetivo profissional. O perfil deixa evidente que Alessandra Guimarães ainda está em processo de formação, ao mesmo tempo em que apresenta a Cibersegurança e a atuação como Analista de SOC como seu direcionamento profissional.
+
+A evolução da rede, especialmente o crescimento de 8 para 35 seguidores, demonstra que a presença profissional na plataforma está sendo ampliada. A continuidade das publicações, dos comentários e da construção da rede poderá contribuir para acompanhar a evolução do perfil ao longo da formação acadêmica.
+
+---
+
+## 📸 Instagram — Análise do Perfil Profissional
+
+- **📌 Posicionamento profissional:** o perfil de Alessandra Guimarães da Silva está configurado como **conta profissional**, no formato de **blog pessoal**, e possui foco na construção de uma presença digital relacionada à área de tecnologia.
+- **🆔 Identificação do perfil:** o perfil possui o nome de usuário **`@alessandra_guimaraes_silva`** e apresenta o nome completo **Alessandra Guimarães da Silva**. Atualmente, possui **1 publicação, 2 seguidores** e segue **32 perfis**.
+- **📝 Bio profissional:** a bio apresenta de forma objetiva a situação acadêmica e o direcionamento profissional da estudante: **"Estudante de ADS (2/4)"**, **"Foco em Cibersegurança & Blue Team"** e **"Futuro Analista de SOC"**. Também informa os conhecimentos que estão sendo desenvolvidos no momento, como **Linguagem C e Banco de Dados**.
+- **🎯 Alinhamento com a área de carreira:** a descrição do perfil está diretamente relacionada à área de **Cibersegurança**, que é o direcionamento de carreira escolhido. O destaque para **Blue Team** e para o objetivo de atuar como **Analista de SOC** deixa claro o posicionamento profissional, mesmo estando ainda no período de formação acadêmica.
+- **📄 Conteúdo publicado:** o perfil possui atualmente **uma publicação profissional**, intitulada **"A base da Cibersegurança começa no código!"**. O conteúdo registra o início dos estudos de Linguagem C no 2º semestre de ADS e relaciona o aprendizado de programação com conceitos da área de Defesa Cibernética.
+- **🔗 Relação entre conteúdo e objetivo profissional:** a publicação demonstra uma tentativa de conectar o conteúdo acadêmico atual com o objetivo profissional em Cibersegurança. O exemplo apresentado utiliza o **OneCompiler** para executar um código simples em C que simula uma verificação de token de acesso, relacionando o exercício de programação a conceitos de controle de acesso e registro de tentativas.
+- **🏷️ Hashtags e palavras-chave:** a publicação utiliza termos relacionados à formação e ao objetivo profissional, como `#ADS`, `#EstudanteDeTI`, `#LinguagemC`, `#Cibersegurança`, `#AnalistaDeSOC`, `#BlueTeam` e `#OneCompiler`. Essas palavras-chave ajudam a identificar os principais temas abordados no perfil.
+- **👥 Seguidores e networking:** atualmente, o perfil possui **2 seguidores**. A rede ainda está em fase inicial, porém os seguidores conquistados estão relacionados aos segmentos de **Cibersegurança e Tecnologia**, mantendo coerência com o posicionamento profissional escolhido.
+- **📅 Frequência de publicação:** como o perfil possui apenas uma publicação, ainda não há quantidade suficiente de conteúdo para avaliar uma frequência de postagem consolidada. Esse é um aspecto que poderá ser desenvolvido com a continuidade das publicações sobre estudos, aprendizados e atividades relacionadas à Cibersegurança.
+- **🚀 Potencial de desenvolvimento:** o perfil apresenta uma estrutura inicial coerente com o objetivo profissional. Como próximos passos, pode ampliar a quantidade de conteúdos relacionados à formação em ADS e à Cibersegurança, registrando a evolução dos estudos, projetos acadêmicos, conhecimentos técnicos e futuras certificações.
+
+**🏁 Conclusão:** o Instagram apresenta **posicionamento profissional definido**, principalmente pela bio e pela primeira publicação, que deixam explícitos o curso de ADS, o foco em **Cibersegurança e Blue Team** e o objetivo de atuar como **Analista de SOC**. Apesar de ainda possuir uma quantidade pequena de publicações e seguidores, o perfil encontra-se em fase inicial de construção e apresenta alinhamento entre sua identidade profissional, seus conteúdos e a área de carreira escolhida.
+
+---
+
+## 👩‍💻 Análise do perfil no DEV.to
+
+A análise do perfil no **DEV.to** considera a evolução do perfil antes e depois das atualizações realizadas, com foco no posicionamento profissional e na área de **Cibersegurança**, conforme a proposta do trabalho. A orientação do professor solicita comentários sobre a atuação em plataformas como DEV.to, além da análise da presença profissional nas redes.
+
+### 🌐 Perfil e posicionamento profissional
+
+- O perfil analisado pertence a **Alessandra Guimarães**, estudante de **Análise e Desenvolvimento de Sistemas (ADS) na UNICID**.
+- Atualmente, o perfil apresenta um posicionamento direcionado para **Cibersegurança, Blue Team, SOC e Segurança da Informação**.
+- A descrição do perfil informa que Alessandra está explorando a área de Cibersegurança e possui interesse em atuar futuramente com **SOC**.
+- Esse posicionamento apresenta maior coerência com seu objetivo profissional, pois relaciona sua formação atual em ADS com a área de Cibersegurança que pretende desenvolver.
+
+### 💻 Skills/Languages
+
+- Inicialmente, o perfil **não apresentava habilidades ou linguagens descritas**.
+- Após a atualização, foram adicionadas competências relacionadas aos conhecimentos que Alessandra possui atualmente:
+  - Figma;
+  - Engenharia de Prompt;
+  - Modelagem de Sistemas;
+  - BPMN;
+  - Fundamentos iniciais em Python;
+  - Fundamentos iniciais em C.
+- A inclusão dessas informações torna mais clara a identificação dos conhecimentos técnicos e acadêmicos que já fazem parte de sua formação.
+- As habilidades também ajudam a diferenciar conhecimentos já desenvolvidos daqueles que ainda estão em processo de aprendizagem.
+
+### 📚 Atualmente estou aprendendo
+
+- Antes da atualização, o perfil não apresentava informações sobre o que Alessandra estava estudando.
+- Atualmente, a seção **Currently learning** apresenta:
+  - Cibersegurança;
+  - Fundamentos de redes;
+  - Programação em C;
+  - Modelagem de banco de dados.
+- Essa informação é relevante para um perfil de estudante, pois demonstra que os conhecimentos apresentados como habilidades não representam necessariamente domínio profissional avançado.
+- A seção também evidencia que Alessandra está construindo sua base técnica gradualmente, principalmente em conteúdos relacionados à formação em ADS e ao direcionamento para Cibersegurança.
+
+### 🎯 Disponível para
+
+- Anteriormente, o perfil não apresentava informações sobre oportunidades ou atividades de interesse.
+- Atualmente, Alessandra informa estar disponível para **projetos acadêmicos, networking e oportunidades de estágio em tecnologia**, com interesse em Cibersegurança e SOC.
+- Essa atualização torna o objetivo profissional do perfil mais explícito e demonstra abertura para experiências que possam contribuir para sua formação.
+
+### 📝 Publicações
+
+- Antes da atualização, o perfil **não possuía nenhuma publicação**.
+- Atualmente, o perfil possui **1 publicação**, intitulada **"SOC: conhecendo uma das áreas da Cibersegurança"**.
+- A publicação está relacionada diretamente à área profissional que Alessandra pretende seguir.
+- O conteúdo utiliza as tags `#career`, `#cybersecurity`, `#learning` e `#security`, reforçando a relação da publicação com Cibersegurança e com o processo de aprendizagem.
+- A publicação representa o início da construção de uma presença profissional na plataforma, passando de um perfil sem conteúdo publicado para um perfil que já registra publicamente seus estudos e interesses.
+
+### 👥 Evolução de seguidores e networking
+
+| Métrica | Antes | Agora |
+|---|---|---|
+| 👥 Seguidores | 1 | 2 |
+| ➡️ Seguindo | 0 | 34 |
+
+Essa mudança demonstra uma maior participação na comunidade, não apenas por meio da publicação de conteúdo, mas também pelo acompanhamento de outros usuários.
+
+### 🏷️ Evolução das tags acompanhadas
+
+- Antes da atualização, Alessandra **não seguia nenhuma tag**.
+- Atualmente, acompanha **9 tags**.
+- Essa mudança demonstra uma ampliação dos assuntos acompanhados dentro da plataforma e permite que o perfil esteja mais conectado aos temas relacionados aos seus interesses acadêmicos e profissionais.
+
+### 🔎 Análise final
+
+- A evolução do perfil demonstra uma mudança de um perfil inicialmente **sem conteúdo e com poucas informações profissionais** para uma presença digital mais estruturada.
+- A principal evolução está na **organização das informações profissionais**, com a inclusão de habilidades, conteúdos em aprendizagem e interesses relacionados a oportunidades.
+- A publicação realizada também contribui para demonstrar interesse pela área de **Cibersegurança e SOC**, alinhando o conteúdo publicado ao direcionamento profissional apresentado no perfil.
+- O crescimento de **1 para 2 seguidores**, de **0 para 34 pessoas seguidas** e de **0 para 9 tags acompanhadas** mostra que Alessandra começou a participar de forma mais ativa da comunidade DEV.to.
+- Como próximo passo, a consistência de publicações relacionadas aos estudos e projetos acadêmicos pode contribuir para ampliar gradualmente a presença profissional na plataforma.
+
+---
+
+## 🗺️ Plano de Carreira — Cibersegurança
+
+### 🎯 Objetivo profissional
+
+- Construir uma carreira na área de **Cibersegurança**, com direcionamento para **Blue Team e atuação em SOC** (Security Operations Center).
+- Iniciar a trajetória profissional por meio de uma **primeira experiência em Tecnologia da Informação**, sem limitar a busca inicialmente apenas a vagas de SOC.
+- Conforme adquirir conhecimentos e experiência, direcionar a carreira para oportunidades específicas de **Cibersegurança e SOC**.
+- Buscar inicialmente uma posição de **Analista de SOC Júnior** e, posteriormente, evoluir para **Analista de SOC Pleno**, de acordo com experiência, autonomia e domínio técnico.
+- Desenvolver uma carreira predominantemente **técnica**, com possibilidade de especialização em áreas como análise de logs, SIEM, detecção de ameaças, investigação e resposta a incidentes.
+- Não ter como objetivo principal a gestão de equipes, mantendo o desenvolvimento profissional direcionado à **especialização técnica**.
+
+### 🌱 Curto prazo — 2026 a 2027
+
+**📅 2026 — Início da preparação e entrada no mercado**
+
+- Continuar a graduação em **Análise e Desenvolvimento de Sistemas (ADS)**.
+- Fortalecer conhecimentos de: lógica de programação; Python; linguagem C, estudada na graduação; redes de computadores; Linux; fundamentos de Cibersegurança.
+- Iniciar estudos práticos de Cibersegurança utilizando plataformas como **Cisco Networking Academy, Linux Journey e TryHackMe**.
+- Construir e manter presença profissional em **LinkedIn, GitHub e Dev.to**, utilizando esses canais para registrar projetos, estudos e aprendizados.
+- **Iniciar a busca por estágio já em 2026**, sem esperar a conclusão da graduação.
+- Considerar inicialmente oportunidades de: Tecnologia da Informação; Suporte; Redes; Infraestrutura; Desenvolvimento; Segurança da Informação; Cibersegurança.
+- Utilizar essas primeiras oportunidades para adquirir experiência profissional que posteriormente possa contribuir para a entrada em SOC.
+
+**📅 2027 — Consolidação da base e experiência profissional**
+
+- Continuar a graduação em ADS.
+- Aprofundar conhecimentos de: Redes; Linux; Windows; segurança de redes; fundamentos de Cibersegurança.
+- Aumentar a quantidade de atividades práticas e laboratórios.
+- Desenvolver projetos e documentá-los no GitHub.
+- Continuar a busca por estágio durante todo o ano.
+- Dar maior prioridade a oportunidades relacionadas a: Cibersegurança; Segurança da Informação; Redes; Infraestrutura; SOC.
+- Concluir a graduação em **ADS até o final de 2027**.
+
+### ⚙️ Médio prazo — 2028 a 2030
+
+**📅 2028 — Direcionamento para SOC**
+
+- Após a conclusão da graduação, direcionar a preparação profissional especificamente para **SOC/Blue Team**.
+- Realizar estudos mais específicos sobre: análise de logs; eventos de segurança; alertas; investigação inicial; resposta a incidentes; SIEM; MITRE ATT&CK.
+- Realizar o **Cyber Security 101** e o **SOC Level 1** no TryHackMe, caso ainda não tenham sido concluídos.
+- Desenvolver projetos e laboratórios relacionados a SOC para fortalecer o portfólio.
+- Buscar oportunidades de: Analista de SOC Júnior; Segurança da Informação.
+- **Iniciar a pós-graduação em Cibersegurança na FIAP no segundo semestre de 2028**, caso a formação escolhida e as condições financeiras sejam compatíveis.
+- A pós-graduação será utilizada como complemento à graduação, aos estudos práticos e à experiência profissional, e não como requisito para começar a trabalhar em SOC.
+
+**📅 2029 — Consolidação da atuação em SOC**
+
+- Buscar consolidar a experiência profissional como **Analista de SOC Júnior**, caso essa oportunidade já tenha sido conquistada.
+- Desenvolver maior autonomia na: análise de alertas; análise de logs; investigação de eventos; identificação de indicadores de comprometimento; documentação de incidentes.
+- Aprofundar conhecimentos em **SIEM e MITRE ATT&CK**.
+- Desenvolver conhecimentos de resposta a incidentes.
+- Continuar a pós-graduação na **FIAP**, iniciada em 2028.
+- Continuar desenvolvendo projetos práticos e documentação técnica para o portfólio.
+- Avaliar certificações profissionais, como a **CCST Cybersecurity**, somente se houver condições financeiras e relevância para os objetivos profissionais.
+
+**📅 2030 — Aprofundamento e especialização técnica**
+
+- Consolidar os conhecimentos adquiridos durante a atuação profissional em SOC.
+- Aumentar a autonomia em atividades de: investigação de incidentes; análise de eventos; detecção de ameaças; SIEM; análise de logs; resposta a incidentes.
+- Desenvolver conhecimentos relacionados a **EDR/XDR**.
+- Utilizar **Python** para desenvolver automações e scripts simples aplicados à Cibersegurança.
+- Concluir a pós-graduação em Cibersegurança, conforme o calendário da formação escolhida.
+- Avaliar a realização da **CompTIA Security+** somente caso a certificação seja relevante para as vagas pretendidas e financeiramente viável.
+- Continuar construindo experiência e autonomia para preparar a próxima etapa da carreira.
+
+### 🚀 Longo prazo — 2031 em diante
+
+**📅 2031 — Evolução profissional**
+
+- Buscar a evolução de **Analista de SOC Júnior para Analista de SOC Pleno**, considerando: experiência profissional acumulada; autonomia; domínio técnico; capacidade de investigação; conhecimento das ferramentas utilizadas no ambiente profissional.
+- Assumir atividades de maior complexidade dentro da área de SOC.
+- Aprofundar conhecimentos em: SIEM; detecção de ameaças; investigação; resposta a incidentes; análise de logs; EDR/XDR; automação.
+
+**📅 2031 em diante — Especialização técnica**
+
+- Desenvolver uma carreira de **especialista técnica em Cibersegurança**, com foco em Blue Team e operações de segurança.
+- Aprofundar conhecimentos de acordo com as tecnologias e ferramentas utilizadas no ambiente profissional.
+- Desenvolver especialização progressiva em áreas como: SIEM; análise e correlação de logs; detecção de ameaças; investigação de incidentes; resposta a incidentes; MITRE ATT&CK; EDR/XDR; automação com Python; criação e aperfeiçoamento de regras de detecção; elaboração de procedimentos e playbooks.
+- Manter atualização profissional por meio de: cursos; laboratórios; certificações pertinentes; projetos; documentação técnica; acompanhamento de novas ameaças e tecnologias.
+- Manter o direcionamento da carreira para a **especialização técnica**, sem estabelecer como objetivo a gestão de equipes.
+
+---
+
+## 📋 PDI — Plano de Desenvolvimento Individual
+
+### 🗓️ 2026 — Setembro a dezembro
+
+**⚙️ Desenvolvimento técnico**
+
+1. **Reforçar lógica de programação e Python** — Onde: Curso em Vídeo e exercícios próprios · Prazo: set–dez/2026 · Indicador: desenvolver ao menos 1 projeto simples em Python.
+2. **Iniciar fundamentos de Cibersegurança** — Onde: Cisco Networking Academy · Prazo: set–dez/2026 · Indicador: concluir conteúdos introdutórios e produzir anotações sobre os principais conceitos.
+3. **Iniciar Redes de Computadores** — Onde: Cisco Networking Academy · Prazo: out–dez/2026 · Indicador: compreender IP, TCP/IP, portas, protocolos e DNS em nível introdutório.
+4. **Iniciar Linux** — Onde: Linux Journey · Prazo: out–dez/2026 · Indicador: executar comandos básicos, navegar por diretórios e compreender permissões.
+5. **Iniciar prática de Cibersegurança** — Onde: TryHackMe · Prazo: nov–dez/2026 · Indicador: concluir os primeiros laboratórios introdutórios.
+6. **Iniciar busca por estágio** — Meta: iniciar a inserção no mercado sem esperar a conclusão da graduação · Onde: LinkedIn, Gupy, Indeed e páginas de carreira · Prazo: set–dez/2026, com continuidade em 2027 · Indicador: candidaturas para estágios de TI, Desenvolvimento, Suporte, Redes, Infraestrutura, Segurança da Informação e Cibersegurança.
+
+**🤝 Desenvolvimento comportamental**
+
+7. **Desenvolver comunicação profissional** — Meta: melhorar a capacidade de explicar conhecimentos e projetos técnicos · Prazo: set–dez/2026 · Indicador: apresentações acadêmicas e publicações no LinkedIn/Dev.to.
+8. **Desenvolver organização** — Meta: criar rotina para conciliar graduação, estudos e busca profissional · Prazo: set–dez/2026 · Indicador: cronograma semanal de estudos com atividades registradas.
+9. **Desenvolver postura profissional** — Meta: melhorar a apresentação profissional nos ambientes digitais · Prazo: até dez/2026 · Indicador: manter LinkedIn, GitHub e Dev.to atualizados e alinhados ao objetivo profissional.
+
+### 🗓️ 2027 — Janeiro a dezembro
+
+**⚙️ Desenvolvimento técnico**
+
+1. **Aprofundar Redes** — Onde: Cisco Networking Academy + laboratórios · Prazo: jan–jun/2027 · Indicador: relacionar TCP/IP, DNS, HTTP/HTTPS, portas e protocolos a situações práticas.
+2. **Aprofundar Linux** — Onde: Linux Journey + laboratórios · Prazo: jan–set/2027 · Indicador: utilizar comandos, usuários, permissões e processos com autonomia básica.
+3. **Estudar Windows** — Onde: Microsoft Learn · Prazo: abr–nov/2027 · Indicador: compreender usuários, processos, eventos e fundamentos de logs.
+4. **Praticar Cibersegurança** — Onde: TryHackMe · Prazo: mai–dez/2027 · Indicador: laboratórios progressivamente mais complexos, com aprendizados documentados.
+5. **Desenvolver portfólio** — Onde: GitHub e Dev.to · Prazo: jan–dez/2027 · Indicador: publicar projetos acadêmicos, laboratórios e conteúdos de estudo.
+6. **Continuar a busca por estágio** — Onde: LinkedIn, Gupy, Indeed e sites de empresas · Prazo: jan–dez/2027 · Indicador: candidaturas e processos seletivos, priorizando Cibersegurança, Segurança da Informação, Redes e Infraestrutura.
+
+**🤝 Desenvolvimento comportamental**
+
+7. **Desenvolver comunicação técnica** — Prazo: jan–dez/2027 · Indicador: explicar projetos, problemas encontrados e soluções de forma clara.
+8. **Desenvolver trabalho em equipe** — Prazo: durante 2027 · Indicador: participar de atividades em grupo, cumprir responsabilidades e colaborar nos projetos.
+9. **Desenvolver autonomia** — Prazo: jan–dez/2027 · Indicador: pesquisar e solucionar dúvidas técnicas antes de buscar ajuda.
+10. **Buscar primeira experiência profissional** — Onde: LinkedIn, Gupy, Indeed e páginas de carreira · Prazo: jan–dez/2027 · Indicador: candidaturas e processos seletivos para estágios de TI, Redes, Infraestrutura, Segurança da Informação e Cibersegurança.
+
+### 🗓️ 2028 — Janeiro a dezembro
+
+**⚙️ Desenvolvimento técnico**
+
+1. **Realizar Cyber Security 101** — Onde: TryHackMe · Prazo: jan–mar/2028 · Indicador: concluir o percurso.
+2. **Realizar SOC Level 1** — Onde: TryHackMe · Prazo: abr–jun/2028 · Indicador: concluir os módulos e laboratórios relacionados a SOC.
+3. **Estudar SIEM e análise de logs** — Onde: TryHackMe + laboratórios · Prazo: mai–ago/2028 · Indicador: compreender a análise básica de logs e alertas.
+4. **Estudar MITRE ATT&CK** — Onde: MITRE ATT&CK + TryHackMe · Prazo: jul–set/2028 · Indicador: relacionar técnicas e táticas a situações encontradas nos laboratórios.
+5. **Construir portfólio direcionado a SOC** — Onde: GitHub · Prazo: jul–dez/2028 · Indicador: publicar ao menos 3 atividades ou projetos relacionados a Blue Team/SOC.
+6. **Buscar oportunidade em Cibersegurança júnior** — Onde: LinkedIn, Gupy, Indeed e páginas de carreira · Prazo: jan–dez/2028 · Indicador: processos seletivos para oportunidades de Cibersegurança e vagas de SOC Júnior.
+7. **Iniciar pós-graduação** — Onde: FIAP · Prazo: 2º semestre de 2028 · Indicador: realizar matrícula e iniciar a formação.
+
+**🤝 Desenvolvimento comportamental**
+
+8. **Desenvolver capacidade de investigação** — Prazo: jan–dez/2028 · Indicador: organizar informações, levantar hipóteses e registrar conclusões durante os laboratórios.
+9. **Desenvolver comunicação técnica** — Prazo: jan–dez/2028 · Indicador: produzir documentação clara sobre laboratórios e investigações.
+10. **Desenvolver postura profissional para SOC** — Prazo: durante 2028 · Indicador: participar de processos seletivos e apresentar conhecimentos, projetos e experiências de forma objetiva.
+
+### 🗓️ 2029 — Consolidação em SOC
+
+**⚙️ Desenvolvimento técnico**
+
+1. **Aprofundar SIEM** — Onde: TryHackMe + documentação das ferramentas · Prazo: jan–jun/2029 · Indicador: analisar logs e compreender correlação de eventos.
+2. **Desenvolver investigação de incidentes** — Onde: TryHackMe + laboratórios de Blue Team · Prazo: mar–set/2029 · Indicador: investigações simuladas, evidências identificadas e documentação técnica produzida.
+3. **Aprofundar MITRE ATT&CK** — Onde: MITRE ATT&CK + laboratórios · Prazo: jan–jun/2029 · Indicador: identificar técnicas e táticas relacionadas aos comportamentos analisados.
+4. **Estudar resposta a incidentes** — Onde: TryHackMe + materiais complementares · Prazo: jun–nov/2029 · Indicador: aplicar em laboratório um fluxo básico de identificação, análise, contenção e documentação.
+5. **Continuar a pós-graduação** — Onde: FIAP · Prazo: jan–dez/2029 · Indicador: cumprir disciplinas e atividades previstas no calendário.
+6. **Desenvolver autonomia profissional** — Onde: ambiente profissional e laboratórios · Prazo: jan–dez/2029 · Indicador: realizar atividades técnicas com maior autonomia e documentar as análises.
+
+**🤝 Desenvolvimento comportamental**
+
+7. **Desenvolver autonomia profissional** — Prazo: jan–dez/2029 · Indicador: realizar atividades técnicas com menor necessidade de orientação.
+8. **Desenvolver capacidade de documentação** — Prazo: jan–dez/2029 · Indicador: produzir registros técnicos claros e organizados das análises realizadas.
+9. **Desenvolver trabalho em equipe** — Prazo: jan–dez/2029 · Indicador: colaborar com profissionais de outras áreas e comunicar informações relevantes durante análises e incidentes.
+
+### 🗓️ 2030 — Aprofundamento técnico e automação
+
+**⚙️ Desenvolvimento técnico**
+
+1. **Aprofundar investigação de incidentes** — Onde: ambiente profissional + laboratórios de Blue Team · Prazo: jan–jun/2030 · Indicador: investigações com evidências organizadas e resultados documentados.
+2. **Desenvolver detecção de ameaças** — Onde: TryHackMe + MITRE ATT&CK + documentação de ferramentas · Prazo: mar–set/2030 · Indicador: analisar indicadores, reconhecer falsos positivos e compreender regras básicas de detecção.
+3. **Estudar EDR/XDR** — Onde: documentação oficial + laboratórios · Prazo: jun–set/2030 · Indicador: explicar a função de EDR/XDR e sua utilização em processos de investigação.
+4. **Aplicar Python à Cibersegurança** — Onde: Curso em Vídeo + projetos próprios no GitHub · Prazo: jan–dez/2030 · Indicador: desenvolver ao menos 2 scripts simples relacionados à análise de dados ou tarefas de segurança.
+5. **Concluir a pós-graduação** — Onde: FIAP · Prazo: até dez/2030 · Indicador: concluir todas as disciplinas e requisitos acadêmicos e obter o certificado.
+6. **Avaliar a Security+** — Onde: CompTIA + materiais preparatórios · Prazo: jul–dez/2030 · Indicador: verificar requisitos das vagas, experiência profissional e condição financeira, e decidir se a certificação é pertinente.
+
+**🤝 Desenvolvimento comportamental**
+
+7. **Desenvolver capacidade de tomada de decisão técnica** — Prazo: jan–dez/2030 · Indicador: justificar tecnicamente as decisões tomadas durante investigações e atividades de segurança.
+8. **Desenvolver comunicação em situações de incidente** — Prazo: jan–dez/2030 · Indicador: comunicar informações relevantes de um incidente de forma objetiva e organizada.
+9. **Desenvolver liderança técnica** — Prazo: durante 2030 · Indicador: contribuir tecnicamente para atividades e compartilhar conhecimentos com colegas, **sem direcionar a carreira para gestão de pessoas**.
+
+### 🗓️ 2031 — Evolução profissional
+
+**⚙️ Desenvolvimento técnico**
+
+1. **Buscar evolução de SOC Júnior para SOC Pleno** — Onde: ambiente profissional e processos seletivos · Prazo: jan–dez/2031 · Indicador: maior autonomia em investigação, análise de incidentes, SIEM, detecção e utilização das ferramentas de segurança.
+2. **Aprofundar especialização técnica** — Onde: documentação oficial, laboratórios e cursos especializados · Prazo: jan–dez/2031 · Indicador: assumir atividades técnicas mais complexas e ampliar a autonomia profissional.
+
+**🤝 Desenvolvimento comportamental**
+
+3. **Desenvolver autonomia profissional** — Prazo: jan–dez/2031 · Indicador: conduzir atividades técnicas com maior independência.
+4. **Desenvolver colaboração e comunicação técnica** — Prazo: jan–dez/2031 · Indicador: comunicar análises, incidentes e recomendações de maneira clara para diferentes integrantes da equipe.
+
+### 🗓️ 2031 em diante — Especialização técnica
+
+**⚙️ Desenvolvimento técnico**
+
+1. **Especializar-se em SOC/Blue Team** — Onde: TryHackMe, MITRE ATT&CK, documentação oficial, cursos especializados e ambiente profissional · Prazo: a partir de jan/2032, de forma contínua · Indicador: evolução contínua em SIEM, detecção, investigação, resposta a incidentes, EDR/XDR e análise de logs.
+2. **Desenvolver automação** — Onde: projetos profissionais e GitHub · Prazo: a partir de 2032, continuamente · Indicador: desenvolver scripts e automações que reduzam tarefas repetitivas relacionadas à segurança.
+
+### 🗓️ 2032 em diante — Especialização
+
+**⚙️ Desenvolvimento técnico**
+
+- **Meta:** consolidar uma especialização técnica em SOC/Blue Team.
+- **Onde:** ambiente profissional, TryHackMe, MITRE ATT&CK, documentação oficial, cursos especializados e laboratórios.
+- **Prazo:** a partir de 2032, continuamente.
+- **Indicador:** evolução contínua em SIEM, detecção, investigação, resposta a incidentes, EDR/XDR, análise de logs e automação.
