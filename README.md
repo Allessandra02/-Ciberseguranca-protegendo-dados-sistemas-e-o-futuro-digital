@@ -1224,3 +1224,20 @@ A proporção entre vagas de especialista e vagas de estágio é de **mais de 10
 - O plano de Alessandra concentra a preparação específica de SOC (Cyber Security 101, SOC Level 1, SIEM) em **2028**, depois da graduação. Como as vagas de estágio do mercado já pedem noções de SIEM e laboratórios, **antecipar parte dessa preparação para 2027** aproxima o plano da realidade das vagas.
 
 ---
+##  🕳️ Identificação de Gaps
+
+Os gaps abaixo são as lacunas entre a situação atual do grupo (Seção 4.1) e as exigências reais das empresas (Seção 4.2). Estão ordenados por **prioridade**, considerando impacto na empregabilidade e urgência.
+
+| # | Gap | Evidência | Quem é afetado | Prioridade |
+|---|---|---|---|---|
+| **G1** | **Ausência de portfólio técnico em Cibersegurança** | 3 perfis com 0 repositórios; único repositório existente é de UX/UI | Todos | 🔴 Alta |
+| **G2** | **Falta de experiência prática e de vaga de entrada definida** | Só 7 vagas de estágio na capital; nenhum integrante tem experiência em TI/segurança; Alison sem porta de entrada definida | Todos (mais Alison e Rafael) | 🔴 Alta |
+| **G3** | **Nenhum contato prático com SIEM** | SIEM aparece nos 4 níveis de SOC; no grupo, é tema de 2028 (Alessandra), "noções" (Samuel) ou está ausente (Alison, Rafael) | Todos | 🔴 Alta |
+| **G4** | **Frameworks e normas (ISO 27001, NIST, LGPD) ausentes dos PDIs** | Já são cobrados no nível júnior de Segurança da Informação | Todos | 🔴 Alta |
+| **G5** | **Inglês técnico sem meta em 3 dos 4 PDIs** | Exigido no estágio (leitura técnica) e essencial em ferramentas e vagas internacionais | Alessandra, Alison, Rafael | 🟡 Média |
+| **G6** | **Certificação sem escolha e sem data** | Security+ citado por dois integrantes, mas sem prazo firme; Rafael e Alison sem definição | Alison, Rafael (e prazos de Alessandra e Samuel) | 🟡 Média |
+| **G7** | **Presença digital inconsistente** | Alison: 0 publicações; Samuel: headline descreve o emprego atual e 0 publicações; Rafael: DEV.to sem bio e GitHub vazio; Alessandra: 1 publicação em cada rede | Todos, em graus diferentes | 🟡 Média |
+| **G8** | **PDI sem prazos e indicadores mensuráveis** | PDI de Alison é descritivo, sem prazos nem indicadores (apontado pelos três pares) | Alison | 🟡 Média |
+| **G9** | **Especialização ainda em aberto** | Vagas plenas e sêniores pedem AppSec, IAM/PAM, Network Security ou GRC; Rafael lista seis possibilidades sem escolher | Rafael, Alison | 🟢 Baixa (curto prazo) |
+
+---
