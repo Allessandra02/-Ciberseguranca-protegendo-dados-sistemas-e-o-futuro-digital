@@ -964,3 +964,90 @@ A escolha da especialização será feita de acordo com as experiências prátic
 | 💼 Buscar experiência profissional | Participar de processos seletivos para oportunidades de entrada | 6–12 meses | Participar de processos seletivos e conquistar experiência |
 | 🤝 Desenvolver networking | Conectar-se com profissionais e estudantes da área | Contínuo | Aumentar conexões relacionadas à área de tecnologia |
 
+---
+# 📘  Capítulo Individual — Samuel Carmoni de Oliveira
+
+## 3.1 🔍 Análise do GitHub
+
+**🆔 Identificação do Perfil**
+
+Meu usuário no GitHub é [@carmonisamuel-cloud](https://github.com/carmonisamuel-cloud)[cite: 2]. Ainda não criei o repositório especial de apresentação (`carmonisamuel-cloud/carmonisamuel-cloud`), então meu perfil público hoje não tem uma bio ou README de apresentação.
+
+**📁 Repositórios Públicos**
+
+No momento não tenho nenhum repositório público — nem fixado, nem com estrelas. Meu perfil ainda está no início e ainda não reflete os projetos que já desenvolvi ao longo do curso.
+
+**📈 Evolução de Seguidores**
+
+Hoje tenho 11 seguidores e sigo 22 pessoas. O GitHub não mostra um histórico de evolução desses números, só o valor atual — então não dá pra falar em tendência de crescimento real ainda. É um perfil em construção.
+
+> 💡 Pretendo publicar alguns dos meus projetos da faculdade antes da entrega final, pra essa seção passar a refletir de fato o meu histórico técnico.
+
+---
+
+## 3.2 💼 Análise do LinkedIn
+
+**🎯 Cargo Alvo e Stack**
+
+No meu perfil eu coloquei minha experiência atual: trabalho na Zensho Brasil, na unidade Sukiya, como atendente, e também informei que estudo Análise e Desenvolvimento de Sistemas (ADS) na UNICID. Não tenho nenhuma stack técnica declarada no perfil ainda, nem um cargo-alvo específico (como "estágio em TI") indicado de forma explícita.
+
+**🏷️ Headline Profissional**
+
+Meu headline hoje reflete meu cargo atual (atendente na Zensho Brasil/Sukiya) e minha formação em andamento. Ele descreve onde estou agora, mas não comunica claramente pra onde eu quero ir — não sinaliza que estou buscando uma oportunidade em TI, por exemplo. Um headline mais estratégico poderia deixar isso mais explícito, algo como "Estudante de ADS na UNICID | Buscando oportunidade em TI", em vez de só descrever meu emprego atual.
+
+**👥 Crescimento da Rede**
+
+Hoje tenho 70 conexões e 71 seguidores. Assim como no GitHub, o LinkedIn não me mostra um histórico de evolução desses números — só o total atual. Não dá pra afirmar uma tendência de crescimento, apenas registrar o momento presente: uma rede ainda pequena e em formação.
+
+**📢 Atividade e Engajamento**
+
+Não tenho nenhuma publicação ou comentário no perfil até agora. Minha presença na plataforma é, hoje, passiva — o perfil existe, mas ainda não uso ele ativamente pra me posicionar ou interagir com a comunidade de TI.
+
+---
+## 3.3 🌐 Outras Redes e Planejamento
+
+**📸 Instagram**
+
+Não tenho um Instagram profissional — meu uso da rede é pessoal, sem posicionamento voltado à carreira em TI.
+
+**📝 Outras Redes Profissionais**
+Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ainda sem bio nem publicações. É uma rede que pretendo usar pra compartilhar o que for aprendendo.
+
+**🗺️ Plano de Carreira**
+
+**🎯 Cargo-alvo:** Analista de Segurança da Informação, começando pela porta de entrada mais realista pro meu momento atual — uma vaga de Estágio em Cyber Security ou Analista SOC N1 (nível de monitoramento e resposta inicial a incidentes), como as que mapeamos no Capítulo 1 (ex.: Programa de Estágio Cyber Security da Vita IT e Analista SOC N1 da It4us). Escolhi esse recorte porque "Cibersegurança" sozinha é uma área grande demais pra servir de meta — SOC é o caminho de entrada mais comum pra quem está começando do zero, como é o meu caso hoje.
+
+*⏳ Curto prazo (6 a 12 meses)*
+- 💼 Conquistar um estágio em Cyber Security ou SOC N1, aplicando a base de redes e sistemas operacionais que estou construindo no curso de ADS.
+- 🚀 Publicar meus projetos acadêmicos no GitHub (como o PetCare Manager e o app do MetroScape RPG), transformando o perfil em um portfólio técnico de verdade, e não só uma conta vazia.
+- ✏️ Ajustar meu LinkedIn para deixar claro que estou buscando uma posição de entrada em Cibersegurança/SOC, em vez de só listar meu emprego atual na Sukiya[ci.
+- 📚 Estudar os fundamentos técnicos que ainda não tenho: redes de computadores, noções de Windows e Linux, e conceitos básicos de SIEM — a base mínima pedida até nas vagas de estágio mapeadas.
+
+*📅 Médio prazo (1 a 3 anos)*
+- 🎓 Concluir o curso de ADS na UNICID.
+- 📈 Evoluir de estagiário/SOC N1 para Analista de Segurança da Informação Pleno, ganhando experiência prática com ferramentas de monitoramento (SIEM, EDR) e resposta a incidentes.
+- 📜 Buscar uma certificação de entrada reconhecida pelo mercado, como CompTIA Security+, pra formalizar a base técnica.
+- 🗣️ Usar a experiência que já tenho em atendimento e negociação (Sukiya, Admicon, anos como vendedor autônomo) como diferencial em comunicação de risco pra públicos não técnicos — uma soft skill bem valorizada na área.
+
+*🚀 Longo prazo (3 a 5 anos ou mais)*
+- 🛡️ Me especializar dentro de Cibersegurança — hoje minha maior curiosidade é pelo lado de Blue Team/resposta a incidentes, mas pretendo definir isso com mais clareza conforme ganho experiência prática.
+- 🌍 Buscar inglês técnico mais forte, já que abre porta pra vagas remotas internacionais bem remuneradas, como vimos no mapeamento de mercado do Capítulo 1.
+- 📂 Manter um portfólio técnico ativo (GitHub e dev.to) documentando essa evolução, em vez de algo montado só pra um trabalho da faculdade.
+
+---
+
+**🎯 PDI — Plano de Desenvolvimento Individual**
+
+| Competência | Tipo | Situação atual | Meta | Prazo | Como vou medir |
+|---|---|---|---|---|---|
+| 🌐 Redes de computadores | Hard Skill | Conhecimento básico, ainda em construção pelo curso de ADS | Entender firewalls, VPNs e conceitos de IDS/IPS o suficiente pra passar em entrevista de estágio | 6 meses | Concluir um curso introdutório de redes e simular questões de entrevista da área |
+| 🐧 Sistemas Operacionais (Windows/Linux) | Hard Skill | Uso básico do dia a dia, sem prática administrativa | Saber operar e configurar tarefas básicas em Linux (linha de comando) | 6 meses | Praticar em ambiente virtual (máquina virtual) e documentar no GitHub |
+| 📊 SIEM / noções de SOC | Hard Skill | Nenhum contato prático ainda | Entender o que é um SIEM e como funciona uma triagem básica de alertas | 12 meses | Fazer um curso gratuito introdutório (ex. TryHackMe, Cisco Networking Academy) |
+| 🇬🇧 Inglês técnico | Hard Skill | Nível básico | Ler documentação técnica e descrições de vaga em inglês sem dificuldade | 12 meses | Praticar leitura técnica semanalmente; revisar vocabulário de segurança |
+| 🗣️ Comunicação de risco pra público não técnico | Soft Skill | Já tenho prática de atendimento ao público (Sukiya, vendas autônomas) | Aplicar essa experiência pra explicar conceitos técnicos de forma simples | Contínuo | Buscar situações no curso/projetos onde eu precise explicar algo técnico pra alguém leigo |
+| 🧘 Calma sob pressão | Soft Skill | Desenvolvida em outros contextos de atendimento, ainda não testada em contexto técnico/incidente | Manter clareza ao seguir um processo estruturado (playbook) mesmo sob pressão | Contínuo | Simular cenários de resposta a incidente em labs práticos (ex. CTFs introdutórios) |
+
+*(Este PDI parte da minha situação real hoje — ainda sem experiência formal em Cibersegurança — e usa como referência as competências mapeadas no Capítulo 4 deste trabalho.)*
+
+---
+
