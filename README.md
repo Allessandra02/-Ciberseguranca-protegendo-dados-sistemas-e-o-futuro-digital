@@ -1062,6 +1062,13 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 * **💡 Sugestões de melhoria:** Como o repositório público atual é voltado a UX/UI, a prioridade deve ser adicionar projetos práticos voltados diretamente à Cibersegurança (ex.: análise de logs, scripts de automação em Python ou simulações de redes).
 
 ---
+### 🔍 Avaliação feita por Rafael Christian
+* **📌 Qualidade e consistência dos perfis digitais:** Excelente posicionamento em todas as plataformas analisadas. O crescimento da rede no LinkedIn e a presença ativa no DEV.to e Instagram evidenciam a construção consistente de sua marca pessoal.
+* **🎯 Plano de carreira:** Muito maduro e realista. A estratégia de buscar oportunidades iniciais em TI/Suporte/Redes em 2026 para construir bagagem prática antes de afunilar exclusivamente para SOC em 2028 é perfeita.
+* **📊 PDI:** As metas envolvendo o TryHackMe (Cyber Security 101 e SOC Level 1) e o estudo do framework MITRE ATT&CK agregam um valor técnico diferenciado.
+* **💡 Sugestões de melhoria:** Manter a consistência de postagens no LinkedIn e DEV.to. No GitHub, começar a publicar *write-ups* de salas do TryHackMe em formato de repositórios organizados.
+
+---
 
 ## 👤 Feedback para Alison Belen
 
@@ -1070,6 +1077,13 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 * **🎯 Plano de carreira:** O plano de carreira está bem estruturado cronologicamente, apresentando objetivos realistas a curto, médio e longo prazo, alinhados à área de Cibersegurança.
 * **📊 PDI:** O PDI está coerente com as necessidades de um perfil iniciante, abrangendo pilares essenciais como redes, cibersegurança e lógica de programação. No entanto, falta definir prazos mais específicos e indicadores mensuráveis para acompanhar o progresso real.
 * **💡 Sugestões de melhoria:** Recomendo criar repositórios públicos no GitHub, mesmo que sejam exercícios de aula ou pequenos scripts em Python. No LinkedIn, vale a pena otimizar a headline adicionando palavras-chave como *Linux*, *Redes* ou *Python* para aumentar a visibilidade em buscas de recrutadores.
+
+---
+### 🔍 Avaliação feita por Rafael Christian
+* **📌 Qualidade e consistência dos perfis digitais:** O Alison estabeleceu um bom ponto de partida, mas os perfis digitais ainda não transmitem a autoridade técnica necessária para a área de Segurança da Informação. No GitHub, a ausência de repositórios públicos limita a demonstração prática de hard skills.
+* **🎯 Plano de carreira:** A visão de transição progressiva da programação para a cibersegurança é consistente e respeita as etapas fundamentais de aprendizado.
+* **📊 PDI:** Apresenta boas intenções quanto aos tópicos de estudo, mas peca na falta de detalhamento das plataformas práticas que serão utilizadas (ex.: TryHackMe, Cisco Networking Academy, Hack The Box).
+* **💡 Sugestões de melhoria:** Sugiro criar e fixar no GitHub pelo menos um repositório com documentação clara (README bem formatado) abordando laboratórios de redes ou lógica de programação. Também recomendo começar a interagir em publicações do LinkedIn voltadas para a comunidade de Blue Team/SOC.
 
 ---
 
@@ -1105,6 +1119,13 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 * **🎯 Plano de carreira:** Excelente direcionamento. A meta de buscar estágios em SOC N1 ou Cyber Security e utilizar suas soft skills de atendimento ao cliente como diferencial competitivo é um ponto muito forte.
 * **📊 PDI:** O PDI abrange precisamente os pontos de desenvolvimento atuais (Redes, Linux, SIEM e Inglês) com metodologias práticas de acompanhamento.
 * **💡 Sugestões de melhoria:** Atualizar imediatamente a headline do LinkedIn para destacar seu objetivo profissional na área de tecnologia (ex.: *"Estudante de ADS | Em transição para Cibersegurança & SOC"*), mantendo a experiência atual nas descrições detalhadas do cargo.
+
+---
+### 🔍 Avaliação feita por Rafael Christian
+* **📌 Qualidade e consistência dos perfis digitais:** Análise reflexiva impecável sobre seu estado atual. Embora o volume de conexões e publicações ainda seja baixo, o diagnóstico das correções necessárias está perfeitamente alinhado às exigências da atividade.
+* **🎯 Plano de carreira:** A definição específica da vaga-alvo (SOC N1 / Estágio em Cibersegurança) evita metas genéricas e demonstra alinhamento com os requisitos do mercado.
+* **📊 PDI:** A inclusão do estudo de Inglês técnico e de simulações de resposta a incidentes/playbooks demonstra visão ampla da rotina operacional de segurança.
+* **💡 Sugestões de melhoria:** Adicionar uma bio técnica na conta do DEV.to e publicar ao menos um artigo resumindo aprendizados de redes da graduação. Adicionar descrições orientadas a resultados nas experiências profissionais passadas do LinkedIn.
 
 ---
 
