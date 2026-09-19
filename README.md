@@ -1185,4 +1185,42 @@ Este capítulo conecta os perfis individuais (Capítulos Individuais) à realida
 - **Definição da porta de entrada:** Alessandra, Rafael e Samuel citam funções específicas (SOC Júnior, SOC N1, Estágio Cyber). Alison ainda não definiu (feedback recebido de Samuel).
 
 ---
+## 📊 Comparação com o Mercado
 
+Esta seção cruza o que as vagas de São Paulo capital exigem (Seção 1.2 e 1.3) com o que os planos e PDIs do grupo contemplam.
+
+### 🌐 Contexto de mercado
+
+| Dado do mercado (Glassdoor, set/2026) | Valor |
+|---|---|
+| Especialista em Segurança da Informação — São Paulo | 780 vagas |
+| Analista SOC — São Paulo | 88 vagas |
+| Analista de Cibersegurança Júnior — São Paulo | 13 vagas |
+| Estágio em Cibersegurança — São Paulo | **7 vagas** |
+| Faixa salarial de entrada (estágio/júnior) | R$ 4.000 – R$ 9.000 |
+| Faixa salarial pleno | R$ 9.000 – R$ 16.000 |
+
+A proporção entre vagas de especialista e vagas de estágio é de **mais de 100 para 1**. O mercado está contratando muito, mas principalmente quem já tem experiência ou uma prova prática equivalente.
+
+### 🧩 Cruzamento: exigência do mercado × planos do grupo
+
+| Competência exigida nas vagas | Onde aparece no mercado | Situação nos planos do grupo | Avaliação |
+|---|---|---|---|
+| **Redes de computadores** (TCP/IP, firewall, WAN) | Todos os níveis; base de estágio a sênior | Presente nos quatro PDIs (Cisco Networking Academy, estudo de TCP/IP, DNS, portas) | ✅ Coberto |
+| **Sistemas operacionais** (Linux/Windows) | Base comum a todos os cargos | Linux nos quatro planos; Windows só no de Alessandra (2027) | 🟡 Parcial |
+| **SIEM** | Presente nos quatro níveis de SOC mapeados | Alessandra: aprofundar em 2028–2029. Samuel: noções em até 12 meses. Rafael: "monitoramento e análise de eventos" sem ferramenta definida. Alison: ausente | 🔴 Tarde ou vago |
+| **Prática em laboratórios / CTFs** | Diferencial explícito na vaga de estágio da Vita IT | TryHackMe citado por Alessandra e Samuel; Rafael cita laboratórios de forma genérica; Alison apenas "projetos práticos" | 🟡 Parcial |
+| **Inglês técnico** | Exigido na vaga de estágio (leitura técnica); essencial em ferramentas e vagas internacionais | Só Samuel tem meta específica de inglês | 🔴 Lacuna em 3 de 4 |
+| **Frameworks e normas** (ISO 27001, NIST, LGPD) | Já cobrados no nível júnior das vagas de Segurança da Informação | Nenhum PDI menciona ISO 27001, NIST ou LGPD (Alessandra cita MITRE ATT&CK, que é um framework de táticas de ataque, não de conformidade) | 🔴 Lacuna nos quatro |
+| **Certificações** (Security+, CISSP, etc.) | Valorizadas pelo mercado | Alessandra: CCST (2029) e Security+ (2030). Samuel: Security+ em 1 a 3 anos. Rafael: "buscar certificações", sem definir qual. Alison: ausente | 🟡 Parcial e sem data firme |
+| **Python / automação** | Aparece em vaga sênior (Tempest) e em rotinas de segurança | Presente nos quatro planos | ✅ Coberto |
+| **Especialização** (AppSec, IAM/PAM, GRC, Network Security) | Exigida a partir do nível pleno e sênior | Rafael lista possibilidades sem escolher; os demais focam em SOC/Blue Team | 🟡 Definir a partir do júnior |
+| **Soft skills** (comunicação, trabalho em equipe, pensamento analítico, calma sob pressão) | Explícitas na vaga de SOC pleno; curiosidade e aprendizado na de estágio | Presentes nos PDIs, mais estruturados em Alessandra, Samuel e Rafael | ✅ Bem coberto |
+| **Experiência prática / estágio** | 7 vagas de estágio contra 780 de especialista | Alessandra e Samuel planejam candidaturas ativas; Rafael e Alison a médio prazo | 🟡 Depende de ação imediata |
+
+### ⏱️ Ponto de atenção: o cronograma frente ao mercado
+
+- A vaga de estágio da **Vita IT** (Vivo Vita) pede aluno **no penúltimo ano** da graduação, com **conceitos básicos de redes e segurança**, **inglês para leitura técnica** e, como diferencial, **CTFs, hackathons ou laboratórios**. Ou seja, o grupo já está no momento de disputar esse tipo de vaga, mas ainda **sem o diferencial (labs públicos e documentados) que a própria vaga cita**.
+- O plano de Alessandra concentra a preparação específica de SOC (Cyber Security 101, SOC Level 1, SIEM) em **2028**, depois da graduação. Como as vagas de estágio do mercado já pedem noções de SIEM e laboratórios, **antecipar parte dessa preparação para 2027** aproxima o plano da realidade das vagas.
+
+---
