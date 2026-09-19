@@ -1149,4 +1149,40 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 
 ---
 
+# 🏁 Conclusão — Análise de Gaps e Plano de Ação
+
+Este capítulo conecta os perfis individuais (Capítulos Individuais) à realidade do mercado mapeada no Capítulo 1. O objetivo é responder a três perguntas: **onde o grupo está hoje**, **o que as empresas de Cibersegurança em São Paulo capital realmente exigem** e **o que cada integrante precisa fazer, e até quando, para fechar a distância entre as duas coisas**.
+
+---
+
+## 🤝 Análise Conjunta
+
+### 📌 Síntese dos perfis
+
+| | Alessandra | Alison | Rafael | Samuel |
+|---|---|---|---|---|
+| 🎯 **Cargo-alvo** | Analista de SOC (Blue Team) | Cibersegurança (sem porta de entrada definida) | Cibersegurança (SOC N1 / Analista Júnior como entrada) | Analista de Segurança da Informação (via Estágio Cyber ou SOC N1) |
+| 🎓 **Formação** | ADS (2º/4º semestre) | ADS (início) | ADS (início) | ADS – UNICID |
+| 🐙 **GitHub** | 1 repositório público (UX/UI, 2 ⭐); 3 seguidores; 41 seguindo | 0 repositórios; 7 seguidores; 1 seguindo | 0 repositórios; 5 seguidores; 0 seguindo | 0 repositórios; 11 seguidores; 22 seguindo |
+| 💼 **LinkedIn** | 35 seguidores (8 → 35); 33 conexões; 2 publicações | 5 conexões (0 → 5); 0 publicações | 56 seguidores; 53 conexões; publicações recorrentes (Docker, Cloud, microsserviços, Cibersegurança) | 71 seguidores; 70 conexões; 0 publicações; headline descreve o emprego atual |
+| 📸 **Instagram** | Profissional, com bio alinhada; 1 publicação | Pessoal, sem foco profissional | Profissional, recém-criado | Pessoal, sem foco profissional |
+| 📝 **DEV.to** | 1 artigo; 9 tags seguidas | Não utiliza | Criado em ago/2026, sem bio | Criado recentemente, sem bio e sem artigos |
+| 🗺️ **Plano de Carreira** | Detalhado ano a ano (2026–2032): TI/Suporte → SOC Júnior (2028) → SOC Pleno (2031) → especialista técnica | Três horizontes genéricos: programação → estágio → cibersegurança | Três horizontes: fundamentos → primeira experiência → especialização (SOC, Blue Team, Cloud, AppSec…) | Estágio Cyber/SOC N1 → Analista SI Pleno → Blue Team / resposta a incidentes |
+| 📋 **PDI** | Por ano, com plataforma, prazo e indicador (Cisco, Linux Journey, TryHackMe, SIEM, MITRE ATT&CK) | Descritivo, sem prazos e indicadores mensuráveis | Tabela com 9 metas, prazos de 3 a 12 meses e indicadores | Tabela com 6 competências (4 hard + 2 soft), situação atual, meta, prazo e medição |
+
+### 🔎 O que o grupo tem em comum
+
+- **Ponto de partida semelhante:** os quatro estão no início da graduação em ADS, sem experiência formal em Cibersegurança.
+- **Direção convergente:** todos apontam para **Blue Team / SOC / Segurança da Informação** como porta de entrada, o que está alinhado com o recorte de vagas do Capítulo 1.
+- **Base de estudo coincidente:** redes, Linux, Python e laboratórios práticos aparecem nos quatro PDIs, e TryHackMe e Cisco Networking Academy são as plataformas mais citadas.
+- **GitHub como ponto fraco coletivo:** três dos quatro perfis têm **0 repositórios públicos**, e o único repositório existente (Alessandra) é de UX/UI, não de segurança. **Nenhum integrante possui hoje um projeto público de Cibersegurança.**
+
+### ↔️ O que muda entre os integrantes
+
+- **Presença digital:** Rafael e Alessandra estão mais estruturados (LinkedIn ativo, Instagram profissional, DEV.to em uso ou iniciado). Alison e Samuel têm perfis recentes ou passivos.
+- **Rede de contatos:** Samuel (70 conexões) e Rafael (53) têm as maiores redes, mas só Rafael as usa ativamente. Alessandra tem a maior evolução percentual (+337,5% de seguidores).
+- **Maturidade do planejamento:** Alessandra tem o plano mais longo e detalhado. Alison tem o plano mais aberto, sem prazos nem indicadores. Samuel e Rafael estão no meio-termo, com metas concretas no curto prazo.
+- **Definição da porta de entrada:** Alessandra, Rafael e Samuel citam funções específicas (SOC Júnior, SOC N1, Estágio Cyber). Alison ainda não definiu (feedback recebido de Samuel).
+
+---
 
