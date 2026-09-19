@@ -1050,4 +1050,40 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 *(Este PDI parte da minha situação real hoje — ainda sem experiência formal em Cibersegurança — e usa como referência as competências mapeadas no Capítulo 4 deste trabalho.)*
 
 ---
+# 💬 Feedback por Pares
+
+---
+## 👤 Feedback para Alessandra Guimarães
+
+
+## 👤 Feedback para Alison Belen
+
+### 🔍 Avaliação feita por Alessandra Guimarães
+* **📌 Qualidade e consistência dos perfis digitais:** O perfil do Alison apresenta boa clareza no LinkedIn ao definir o curso de ADS e suas áreas de interesse (programação e cibersegurança). Contudo, tanto o LinkedIn quanto o GitHub ainda estão em estágio inicial, com pouca movimentação e sem repositórios públicos. A foto de capa, bio e o README no GitHub poderiam ser melhor estruturados para demonstrar sua evolução técnica.
+* **🎯 Plano de carreira:** O plano de carreira está bem estruturado cronologicamente, apresentando objetivos realistas a curto, médio e longo prazo, alinhados à área de Cibersegurança.
+* **📊 PDI:** O PDI está coerente com as necessidades de um perfil iniciante, abrangendo pilares essenciais como redes, cibersegurança e lógica de programação. No entanto, falta definir prazos mais específicos e indicadores mensuráveis para acompanhar o progresso real.
+* **💡 Sugestões de melhoria:** Recomendo criar repositórios públicos no GitHub, mesmo que sejam exercícios de aula ou pequenos scripts em Python. No LinkedIn, vale a pena otimizar a headline adicionando palavras-chave como *Linux*, *Redes* ou *Python* para aumentar a visibilidade em buscas de recrutadores.
+
+---
+
+## 👤 Feedback para Rafael Christian
+
+### 🔍 Avaliação feita por Alessandra Guimarães
+* **📌 Qualidade e consistência dos perfis digitais:** Excelente engajamento no LinkedIn, mostrando que não usa a rede apenas como um currículo estático. A criação de um Instagram técnico focado e do perfil no DEV.to traz bastante maturidade ao seu posicionamento profissional.
+* **🎯 Plano de carreira:** Muito claro e realista, definindo com precisão as posições de entrada (SOC N1 / Segurança da Informação) e o caminho de especialização futura em Blue Team.
+* **📊 PDI:** Estrutura exemplar de PDI, abordando hard e soft skills com prazos acionáveis de 3 a 12 meses.
+* **💡 Sugestões de melhoria:** Trazer o conteúdo rico das postagens do LinkedIn para artigos mais aprofundados no DEV.to. No GitHub, criar o repositório especial de perfil (`Rafael44Christian/Rafael44Christian`) para adicionar um README estilizado com suas habilidades e links sociais.
+
+---
+
+## 👤 Feedback para Samuel Carmoni 
+
+### 🔍 Avaliação feita por Alessandra Guimarães
+* **📌 Qualidade e consistência dos perfis digitais:** O capítulo do Samuel demonstra um alto grau de autoconsciência profissional. Ele identificou exatamente onde estão os pontos fracos do seu LinkedIn e a necessidade de estruturar seu GitHub.
+* **🎯 Plano de carreira:** Estruturado com foco na realidade do mercado. A ponte construída entre sua experiência em atendimento ao público e a soft skill de *Comunicação de Risco* em cibersegurança foi uma excelente sacada.
+* **📊 PDI:** Muito bem construído, priorizando plataformas de ensino acessíveis como TryHackMe e Cisco Networking Academy.
+* **💡 Sugestões de melhoria:** Subir os projetos acadêmicos citados (PetCare Manager e o aplicativo do MetroScape RPG) para o GitHub o quanto antes, preenchendo a lacuna do portfólio. Ativar o recurso *"Open to Work"* no LinkedIn direcionado para Estágio em TI/Segurança.
+
+---
+
 
