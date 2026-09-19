@@ -772,3 +772,195 @@ Para alcançar esses objetivos, quero desenvolver meus conhecimentos em **progra
 - **Meta:** manter o desenvolvimento de comunicação, organização, autonomia, colaboração e documentação técnica.
 - **Prazo:** continuamente.
 - **Indicador:** melhoria contínua na comunicação de incidentes, organização das informações, colaboração com equipes e produção de documentação técnica.
+
+  # 📇 Capítulo Individual — Rafael Christian de Araujo Costa
+
+
+## 1. 🔍 Análise do GitHub
+
+### 1.1 🆔 Identificação do perfil
+
+**Usuário:** `Rafael44Christian`
+
+O perfil do GitHub está em fase inicial de construção. Atualmente, possui 5 seguidores, 0 seguindo e nenhum repositório público[cite: 1]. O perfil foi criado em 24 de agosto de 2026.
+
+Por estar no início da graduação em Análise e Desenvolvimento de Sistemas, o GitHub ainda está sendo estruturado como um portfólio técnico. A plataforma poderá ser utilizada para registrar projetos desenvolvidos durante a graduação e, principalmente, projetos relacionados à Cibersegurança.
+
+### 1.2 📁 Repositórios públicos
+
+Atualmente, o perfil possui 0 repositórios públicos e, consequentemente, não existem repositórios fixados ou projetos com estrelas para análise.
+
+Essa situação representa um dos principais pontos de desenvolvimento do perfil. A criação de projetos públicos permitiria demonstrar, de forma prática, os conhecimentos adquiridos.
+
+Considerando o direcionamento do grupo para Cibersegurança, alguns projetos que podem ser desenvolvidos futuramente são:
+
+- 🔐 Sistema simples de autenticação e controle de acesso;
+- 🔑 Aplicação demonstrando armazenamento seguro de senhas;
+- 🛡️ Projeto de segurança de APIs;
+- 🐍 Scripts em Python para automação de tarefas;
+- 🧪 Laboratórios de análise de vulnerabilidades em ambientes controlados;
+- 🐧 Projetos envolvendo Linux, redes e monitoramento.
+
+### 1.3 📈 Evolução de seguidores
+
+O perfil possui atualmente 5 seguidores. Como a conta é recente, ainda não existe um histórico suficiente para identificar uma tendência de crescimento.
+
+O número atual será utilizado como ponto de partida para acompanhar a evolução do perfil ao longo da formação acadêmica e profissional.
+
+O crescimento poderá ocorrer por meio da publicação de projetos, participação em comunidades, contribuições em projetos e interação com outros estudantes e profissionais de tecnologia.
+
+---
+
+## 2. 💼 Análise do LinkedIn
+
+### 2.1 🎯 Cargo-alvo e Stack
+
+O direcionamento profissional definido para este trabalho é a área de **Cibersegurança**.
+
+Como estudante de Análise e Desenvolvimento de Sistemas, o objetivo inicial é construir conhecimentos que possibilitem futuramente buscar posições de entrada relacionadas à Segurança da Informação, como Analista de Cibersegurança Júnior, Analista de Segurança da Informação ou funções de entrada em SOC.
+
+A stack que deverá ser desenvolvida ao longo da formação inclui:
+
+- 🐍 Python;
+- 🐧 Linux;
+- 🌐 Redes de computadores;
+- 🛡️ Segurança da Informação;
+- 🐙 Git e GitHub;
+- ☁️ Cloud Computing;
+- 🔑 Segurança de APIs;
+- 🔒 Autenticação e autorização;
+- 📊 Monitoramento e análise de eventos.
+
+Neste momento, o foco está na construção dos fundamentos técnicos, e não na apresentação de conhecimentos avançados que ainda estão em desenvolvimento.
+
+### 2.2 🏷️ Headline profissional[cite: 1]
+
+A headline é importante porque apresenta rapidamente o direcionamento profissional do perfil e também utiliza palavras-chave que podem facilitar sua identificação em buscas relacionadas à área de tecnologia.
+
+Uma possibilidade de headline alinhada ao objetivo profissional seria:
+
+> 🎓 **Estudante de ADS | Cibersegurança | Python | Redes | Cloud Computing | Buscando oportunidade em Segurança da Informação**
+
+A proposta deixa claro que o perfil está em formação e utiliza termos relacionados à área escolhida pelo grupo.
+
+### 2.3 👥 Crescimento da rede
+
+Atualmente, o LinkedIn apresenta 56 seguidores e 53 conexões.
+
+Esses números representam o ponto de partida para acompanhar a evolução da rede profissional.
+
+Como não foi identificado um histórico público suficiente para comparar diferentes períodos, não é possível afirmar uma taxa de crescimento. Por isso, o acompanhamento futuro poderá considerar a quantidade de conexões, seguidores e interações em diferentes momentos.
+
+A estratégia é ampliar a rede principalmente com estudantes, profissionais de tecnologia, recrutadores e pessoas que atuam em áreas relacionadas a desenvolvimento, infraestrutura, Cloud Computing e Cibersegurança.
+
+### 2.4 📢 Atividade e engajamento
+
+O perfil apresenta atividade relacionada à área de tecnologia. Entre as publicações recentes estão conteúdos sobre microsserviços, Load Balancing, Docker, Cloud Computing, programação e Cibersegurança.
+
+As publicações demonstram que o perfil está sendo utilizado para registrar aprendizados durante a formação acadêmica, em vez de funcionar apenas como um currículo digital.
+
+Como próximo passo, a atividade pode ser direcionada cada vez mais para Cibersegurança, abordando assuntos como redes, Linux, autenticação, segurança de APIs, vulnerabilidades e monitorament.
+
+---
+
+## 3. 🌐 Outras Redes e Plataformas Profissionais
+
+### 3.1 📝 DEV.to
+
+**Perfil:** `@rafael44christian`
+
+O perfil no DEV.to utiliza o mesmo nome de usuário do GitHub. Atualmente, a conta está em fase inicial, tendo sido criada em 24 de agosto de 2026, e ainda não possui uma biografia preenchida.
+
+A plataforma pode ser utilizada como complemento ao GitHub, permitindo registrar conhecimentos e experiências de estudo por meio de artigos e tutoriais.
+
+Entre os possíveis conteúdos estão:
+
+- 🛡️ Fundamentos de Cibersegurança;
+- 🌐 Conceitos de redes;
+- 🔒 Segurança de APIs;
+- 🔑 Autenticação e autorização;
+- 🐧 Linux para iniciantes;
+- 🎓 Projetos desenvolvidos durante a graduação;
+- 🧪 Relatos de laboratórios e aprendizados.
+
+A utilização da plataforma ainda está no início, portanto existe espaço para desenvolver uma presença profissional mais consistente.
+
+### 3.2 📸 Instagram profissional
+
+**Perfil:** `@rafaelchristian534`
+
+Foi criado um novo perfil com finalidade profissional, substituindo o perfil pessoal anteriormente utilizado nesta análise.
+
+Como o perfil é recente e ainda está em construção, não há histórico suficiente para analisar crescimento, frequência de publicações ou engajamento.
+
+A proposta do perfil é criar uma presença profissional complementar às outras plataformas, podendo futuramente apresentar conteúdos relacionados a tecnologia, programação, Cibersegurança, projetos e aprendizados.
+
+A utilização de um perfil separado para essa finalidade também permite manter uma identidade mais direcionada à carreira profissional.
+
+---
+
+## 4. 🗺️ Plano de Carreira
+
+### 4.1 ⏳ Curto prazo — 6 a 12 meses
+
+O objetivo principal neste período é construir uma base técnica para iniciar uma trajetória profissional em Cibersegurança.
+
+**Metas:**
+
+- 🎓 Avançar na graduação em Análise e Desenvolvimento de Sistemas;
+- 🌐 Aprender fundamentos de redes de computadores;
+- 🐧 Aprofundar conhecimentos em Linux;
+- 🐍 Melhorar os conhecimentos em Python;
+- 🛡️ Estudar fundamentos de Segurança da Informação;
+- 🚀 Criar os primeiros projetos públicos no GitHub;
+- 🧪 Realizar laboratórios práticos de Cibersegurança;
+- 💼 Melhorar a presença profissional no LinkedIn;
+- ✍️ Começar a utilizar o DEV.to para documentar aprendizados;
+- 🔍 Buscar oportunidades de entrada na área de tecnologia.
+
+### 4.2 📅 Médio prazo — 1 a 3 anos
+
+Neste período, o objetivo é transformar os conhecimentos adquiridos em experiência prática e profissional.
+
+**Metas:**
+
+- 💼 Buscar uma oportunidade profissional relacionada à tecnologia ou Cibersegurança;
+- 📊 Desenvolver experiência com monitoramento e análise de eventos;
+- 💻 Aprofundar conhecimentos em redes e sistemas operacionais;
+- 🛠️ Conhecer ferramentas utilizadas em ambientes de segurança;
+- 📂 Desenvolver projetos mais completos para o portfólio;
+- 📜 Buscar certificações relacionadas à área;
+- 🤝 Participar de comunidades, eventos e atividades de tecnologia;
+- 🎯 Identificar uma área de especialização dentro da Cibersegurança.
+
+### 4.3 🚀 Longo prazo — 3 a 5 anos ou mais
+
+No longo prazo, o objetivo é atuar profissionalmente em uma área especializada de Cibersegurança.
+
+Algumas possibilidades de especialização que poderão ser avaliadas conforme a experiência adquirida são:
+
+- 🚨 Security Operations Center (SOC);
+- 🛡️ Blue Team;
+- ☁️ Segurança em Cloud;
+- 💻 Segurança de aplicações;
+- 🔍 Análise de vulnerabilidades;
+- ⚠️ Resposta a incidentes.
+
+A escolha da especialização será feita de acordo com as experiências práticas, interesses e oportunidades encontradas ao longo da carreira.
+
+---
+
+## 5. 🎯 PDI — Plano de Desenvolvimento Individual
+
+| Objetivo | Ação | Prazo | Indicador de progresso |
+|---|---|---|---|
+| 🌐 Desenvolver conhecimentos de redes | Estudar TCP/IP, DNS, HTTP, portas, protocolos e modelo OSI | 3 meses | Conseguir explicar e aplicar os principais conceitos |
+| 🐍 Melhorar Python | Criar scripts e pequenos projetos | 6 meses | Publicar projetos no GitHub |
+| 🐧 Aprender Linux | Praticar comandos, permissões, processos e administração básica | 4 meses | Conseguir realizar tarefas básicas sem depender de tutoriais |
+| 🛡️ Estudar Cibersegurança | Aprender fundamentos, vulnerabilidades e mecanismos de proteção | 6 meses | Concluir laboratórios e registrar os aprendizados |
+| 📁 Construir portfólio | Desenvolver projetos relacionados à segurança | 12 meses | Ter projetos públicos documentados no GitHub |
+| 💼 Desenvolver presença profissional | Publicar conteúdos técnicos no LinkedIn e DEV.to | Contínuo | Aumentar a quantidade e consistência das publicações |
+| 🗣️ Desenvolver comunicação | Participar de apresentações, comunidades e discussões técnicas | Contínuo | Conseguir explicar conceitos técnicos de forma clara |
+| 💼 Buscar experiência profissional | Participar de processos seletivos para oportunidades de entrada | 6–12 meses | Participar de processos seletivos e conquistar experiência |
+| 🤝 Desenvolver networking | Conectar-se com profissionais e estudantes da área | Contínuo | Aumentar conexões relacionadas à área de tecnologia |
+
