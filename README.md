@@ -1069,6 +1069,13 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 * **💡 Sugestões de melhoria:** Manter a consistência de postagens no LinkedIn e DEV.to. No GitHub, começar a publicar *write-ups* de salas do TryHackMe em formato de repositórios organizados.
 
 ---
+### 🔍 Avaliação feita por Samuel Carmoni
+* **📌 Qualidade e consistência dos perfis digitais:** A dedicação na construção da presença digital é notável. Headline direta, bio objetiva e postagens que conectam conteúdos da graduação (como a linguagem C) aos conceitos de segurança defensiva.
+* **🎯 Plano de carreira:** A clareza quanto ao desejo de seguir uma carreira técnica especialista (sem focar em gestão de pessoas) alinha-se perfeitamente com os perfis de Blue Team e SOC.
+* **📊 PDI:** Cronograma exemplar, distribuindo os estudos práticos em plataformas de referência no mercado.
+* **💡 Sugestões de melhoria:** Integrar os conhecimentos declarados de Engenharia de Prompt e Modelagem com a Cibersegurança em um projeto autoral no GitHub (ex.: criação de documentação de incidentes com suporte de IA ou modelagem BPMN de um fluxo de atendimento em SOC).
+  
+---
 
 ## 👤 Feedback para Alison Belen
 
@@ -1084,6 +1091,13 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 * **🎯 Plano de carreira:** A visão de transição progressiva da programação para a cibersegurança é consistente e respeita as etapas fundamentais de aprendizado.
 * **📊 PDI:** Apresenta boas intenções quanto aos tópicos de estudo, mas peca na falta de detalhamento das plataformas práticas que serão utilizadas (ex.: TryHackMe, Cisco Networking Academy, Hack The Box).
 * **💡 Sugestões de melhoria:** Sugiro criar e fixar no GitHub pelo menos um repositório com documentação clara (README bem formatado) abordando laboratórios de redes ou lógica de programação. Também recomendo começar a interagir em publicações do LinkedIn voltadas para a comunidade de Blue Team/SOC.
+
+---
+### 🔍 Avaliação feita por Samuel Carmoni
+* **📌 Qualidade e consistência dos perfis digitais:** Alison demonstra transparência ao reconhecer que os perfis são recentes e possuem pouca atividade. Essa autocrítica é positiva, mas é preciso acelerar a construção do posicionamento profissional para o mercado.
+* **🎯 Plano de carreira:** O foco em longo prazo na área de cibersegurança alinha-se perfeitamente com a proposta do grupo. Senti falta de afunilar qual a "porta de entrada" almejada no curto prazo (ex.: Suporte, Estágio em TI ou SOC N1).
+* **📊 PDI:** As metas cobrem bem os pilares de infraestrutura e programação, necessitando apenas de critérios de medição mais acionáveis e prazos delimitados.
+* **💡 Sugestões de melhoria:** Defina uma meta semanal de conexões no LinkedIn com recrutadores de TI e profissionais de cibersegurança. Explore também a criação de um perfil no DEV.to para postar resumos dos conteúdos aprendidos na faculdade.
 
 ---
 
@@ -1103,7 +1117,13 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 * **💡 Sugestões de melhoria:** Priorizar com urgência a publicação dos scripts em Python e laboratórios de Linux/Redes que estuda no GitHub, convertendo a teoria apresentada no LinkedIn em repositórios práticos.
 
 ---
+### 🔍 Avaliação feita por Samuel Carmoni
+* **📌 Qualidade e consistência dos perfis digitais:** Destaca-se pelo alto nível de atividade no LinkedIn e pela diversificação da presença digital em outras plataformas. A lacuna de repositórios no GitHub destoa do ótimo nível de engajamento demonstrado nas redes.
+* **🎯 Plano de carreira:** A transição do curto prazo (fundamentos de redes/Linux) para o médio prazo (SOC / Blue Team) reflete com precisão as exigências do mercado de trabalho.
+* **📊 PDI:** A inclusão de metas voltadas à comunicação técnica e ao networking demonstra uma visão diferenciada sobre soft skills.
+* **💡 Sugestões de melhoria:** Recomendo transformar os laboratórios práticos do TryHackMe em *write-ups* (relatórios técnicos) e publicá-los no DEV.to e no GitHub.
 
+---
 
 ## 👤 Feedback para Samuel Carmoni 
 
