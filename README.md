@@ -1055,6 +1055,13 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 ---
 ## 👤 Feedback para Alessandra Guimarães
 
+### 🔍 Avaliação feita por Alison Belen
+* **📌 Qualidade e consistência dos perfis digitais:** A Alessandra possui a presença digital mais completa e estruturada do grupo. O uso do GitHub com README pessoal e repositório público (UX/UI no Figma), somado ao Instagram profissional e DEV.to ativo, demonstra alto engajamento.
+* **🎯 Plano de carreira:** Extremamente detalhado e abrangente, cobrindo a evolução ano a ano de 2026 a 2032 com foco claro em Blue Team, SOC e pós-graduação na FIAP.
+* **📊 PDI:** PDI estruturado com precisão, dividido em blocos temporais com metas de hard/soft skills, prazos, plataformas e indicadores objetivos.
+* **💡 Sugestões de melhoria:** Como o repositório público atual é voltado a UX/UI, a prioridade deve ser adicionar projetos práticos voltados diretamente à Cibersegurança (ex.: análise de logs, scripts de automação em Python ou simulações de redes).
+
+---
 
 ## 👤 Feedback para Alison Belen
 
@@ -1075,6 +1082,14 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 * **💡 Sugestões de melhoria:** Trazer o conteúdo rico das postagens do LinkedIn para artigos mais aprofundados no DEV.to. No GitHub, criar o repositório especial de perfil (`Rafael44Christian/Rafael44Christian`) para adicionar um README estilizado com suas habilidades e links sociais.
 
 ---
+### 🔍 Avaliação feita por Alison Belen
+* **📌 Qualidade e consistência dos perfis digitais:** O Rafael possui uma excelente presença ativa no LinkedIn, publicando frequentemente sobre Docker, Cloud, microsserviços e Cibersegurança. Seu perfil no DEV.to e Instagram profissional mostram um ecossistema de redes muito maduro. O ponto a ser desenvolvido é o GitHub, que ainda não possui projetos públicos.
+* **🎯 Plano de carreira:** Plano extremamente detalhado, conectando com clareza o aprendizado técnico com cargos reais de entrada no mercado, como SOC N1 ou Analista Júnior.
+* **📊 PDI:** O PDI em formato de tabela é um dos mais completos, apresentando prazos claros, ações definidas e indicadores totalmente mensuráveis.
+* **💡 Sugestões de melhoria:** Priorizar com urgência a publicação dos scripts em Python e laboratórios de Linux/Redes que estuda no GitHub, convertendo a teoria apresentada no LinkedIn em repositórios práticos.
+
+---
+
 
 ## 👤 Feedback para Samuel Carmoni 
 
@@ -1083,6 +1098,13 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 * **🎯 Plano de carreira:** Estruturado com foco na realidade do mercado. A ponte construída entre sua experiência em atendimento ao público e a soft skill de *Comunicação de Risco* em cibersegurança foi uma excelente sacada.
 * **📊 PDI:** Muito bem construído, priorizando plataformas de ensino acessíveis como TryHackMe e Cisco Networking Academy.
 * **💡 Sugestões de melhoria:** Subir os projetos acadêmicos citados (PetCare Manager e o aplicativo do MetroScape RPG) para o GitHub o quanto antes, preenchendo a lacuna do portfólio. Ativar o recurso *"Open to Work"* no LinkedIn direcionado para Estágio em TI/Segurança.
+
+---
+### 🔍 Avaliação feita por Alison Belen
+* **📌 Qualidade e consistência dos perfis digitais:** O Samuel fez uma análise crítica muito madura do seu perfil do LinkedIn, reconhecendo que limitar a visualização ao cargo de atendente reduz sua atratividade para vagas de TI. O GitHub e o DEV.to ainda necessitam de preenchimento e projetos.
+* **🎯 Plano de carreira:** Excelente direcionamento. A meta de buscar estágios em SOC N1 ou Cyber Security e utilizar suas soft skills de atendimento ao cliente como diferencial competitivo é um ponto muito forte.
+* **📊 PDI:** O PDI abrange precisamente os pontos de desenvolvimento atuais (Redes, Linux, SIEM e Inglês) com metodologias práticas de acompanhamento.
+* **💡 Sugestões de melhoria:** Atualizar imediatamente a headline do LinkedIn para destacar seu objetivo profissional na área de tecnologia (ex.: *"Estudante de ADS | Em transição para Cibersegurança & SOC"*), mantendo a experiência atual nas descrições detalhadas do cargo.
 
 ---
 
