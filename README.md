@@ -673,3 +673,102 @@ Essa mudança demonstra uma maior participação na comunidade, não apenas por 
 - **Onde:** ambiente profissional, TryHackMe, MITRE ATT&CK, documentação oficial, cursos especializados e laboratórios.
 - **Prazo:** a partir de 2032, continuamente.
 - **Indicador:** evolução contínua em SIEM, detecção, investigação, resposta a incidentes, EDR/XDR, análise de logs e automação.
+
+   # 📇 Capítulo Individual — Alison Belen Condori Mayta
+
+> Análise do LinkedIn, GitHub, Outras Redes e Planejamento
+
+---
+
+## 💼 3. Análise do LinkedIn
+
+### 🎯 Cargo-alvo e área de interesse
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse na área de tecnologia, principalmente **programação** e **cibersegurança**. Como ainda estou no começo da minha formação, não tenho uma stack técnica definida no perfil. Pretendo ir acrescentando as linguagens, ferramentas e tecnologias que eu aprender ao longo do curso e dos meus estudos.
+
+### 🏷️ Headline profissional
+
+> **Estudante de Análise e Desenvolvimento de Sistemas | Tecnologia | Programação**
+
+Escolhi esse título porque ele mostra de forma simples o que estou estudando e as áreas que mais me interessam profissionalmente.
+
+### 📈 Crescimento da rede
+
+Meu perfil evoluiu de **0 para 5 conexões** desde que foi criado. Como o perfil é novo, minha rede ainda está começando a crescer. A ideia é continuar adicionando colegas, professores, profissionais e recrutadores da área de tecnologia.
+
+### 💬 Atividade e engajamento
+
+Por enquanto, meu perfil ainda não possui publicações nem interações, como curtidas, comentários ou compartilhamentos. Isso acontece porque o perfil foi criado recentemente. Pretendo começar a publicar conteúdos sobre tecnologia, programação e cibersegurança para aumentar minha participação e minha visibilidade profissional.
+
+---
+
+## 🐙 Análise do GitHub
+
+### 👤 Perfil
+
+| Campo | Valor |
+|---|---|
+| Perfil | `Alison-belen97` |
+| Usuário | `alison97-ciber` |
+
+### 📝 Descrição atual
+
+> 🎓 🚀 Estudante de Análise e Desenvolvimento de Sistemas \| Construindo meu conhecimento em tecnologia
+
+### 📊 Informações atuais do perfil
+
+| Métrica | Quantidade |
+|---|---|
+| 📁 Repositórios públicos | 0 |
+| 👥 Seguidores | 7 |
+| ➡️ Seguindo | 1 |
+| 🏢 Organizações | 0 |
+| ⭐ Projetos com estrela | 0 |
+
+Essas informações mostram que o perfil ainda está no início, mas já começou a receber alguns seguidores.
+
+### 🔎 Análise
+
+Meu GitHub ainda está no começo e ainda não funciona como um portfólio técnico completo, porque não tenho repositórios públicos. Meu próximo passo é criar projetos da faculdade e projetos pessoais, principalmente relacionados a **programação** e **cibersegurança**. Também pretendo deixar os projetos organizados e colocar uma explicação sobre cada um para facilitar o entendimento.
+
+---
+
+## 🌐 Outras Redes e Planejamento
+
+### 📸 Instagram
+
+Meu Instagram é usado principalmente de forma pessoal e, no momento, não possui uma bio ou conteúdo voltado para a área profissional de tecnologia. Por isso, atualmente ele não contribui diretamente para meu posicionamento profissional. No futuro, posso adaptar o perfil caso decida utilizá-lo também para mostrar conteúdos relacionados à minha carreira.
+
+### 🔗 Outras redes profissionais
+
+No momento, meu foco está no **LinkedIn** e no **GitHub**, porque são as plataformas que mais têm relação com minha formação e com a área de tecnologia. Futuramente, também posso utilizar plataformas como **Dev.to**, **Medium**, **Substack** ou criar um portfólio no **Notion** para apresentar projetos, estudos e conteúdos que eu produzir.
+
+---
+
+## 🗺️ Plano de Carreira
+
+### 🌱 Curto prazo (6–12 meses)
+
+Quero fortalecer meus conhecimentos de programação e começar a estudar cibersegurança de forma mais direcionada.
+
+### ⚙️ Médio prazo (1–3 anos)
+
+Quero desenvolver projetos, melhorar meu GitHub e buscar uma oportunidade de estágio ou uma primeira experiência profissional na área de tecnologia.
+
+### 🚀 Longo prazo (3–5 anos ou mais)
+
+Meu objetivo é construir e consolidar minha carreira na área de **cibersegurança**.
+
+---
+
+## 📋 PDI — Plano de Desenvolvimento Individual
+
+Para alcançar esses objetivos, quero desenvolver meus conhecimentos em **programação**, **banco de dados**, **redes** e **cibersegurança**. Também quero criar projetos práticos para montar meu portfólio, manter meu LinkedIn e GitHub atualizados e procurar oportunidades de estágio ou emprego na área.
+
+---
+
+**🤝 Desenvolvimento comportamental**
+
+- **Meta:** manter o desenvolvimento de comunicação, organização, autonomia, colaboração e documentação técnica.
+- **Prazo:** continuamente.
+- **Indicador:** melhoria contínua na comunicação de incidentes, organização das informações, colaboração com equipes e produção de documentação técnica.
