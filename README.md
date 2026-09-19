@@ -673,3 +673,381 @@ Essa mudança demonstra uma maior participação na comunidade, não apenas por 
 - **Onde:** ambiente profissional, TryHackMe, MITRE ATT&CK, documentação oficial, cursos especializados e laboratórios.
 - **Prazo:** a partir de 2032, continuamente.
 - **Indicador:** evolução contínua em SIEM, detecção, investigação, resposta a incidentes, EDR/XDR, análise de logs e automação.
+
+   # 📇 Capítulo Individual — Alison Belen Condori Mayta
+
+> Análise do LinkedIn, GitHub, Outras Redes e Planejamento
+
+---
+
+## 💼 3. Análise do LinkedIn
+
+### 🎯 Cargo-alvo e área de interesse
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse na área de tecnologia, principalmente **programação** e **cibersegurança**. Como ainda estou no começo da minha formação, não tenho uma stack técnica definida no perfil. Pretendo ir acrescentando as linguagens, ferramentas e tecnologias que eu aprender ao longo do curso e dos meus estudos.
+
+### 🏷️ Headline profissional
+
+> **Estudante de Análise e Desenvolvimento de Sistemas | Tecnologia | Programação**
+
+Escolhi esse título porque ele mostra de forma simples o que estou estudando e as áreas que mais me interessam profissionalmente.
+
+### 📈 Crescimento da rede
+
+Meu perfil evoluiu de **0 para 5 conexões** desde que foi criado. Como o perfil é novo, minha rede ainda está começando a crescer. A ideia é continuar adicionando colegas, professores, profissionais e recrutadores da área de tecnologia.
+
+### 💬 Atividade e engajamento
+
+Por enquanto, meu perfil ainda não possui publicações nem interações, como curtidas, comentários ou compartilhamentos. Isso acontece porque o perfil foi criado recentemente. Pretendo começar a publicar conteúdos sobre tecnologia, programação e cibersegurança para aumentar minha participação e minha visibilidade profissional.
+
+---
+
+## 🐙 Análise do GitHub
+
+### 👤 Perfil
+
+| Campo | Valor |
+|---|---|
+| Perfil | `Alison-belen97` |
+| Usuário | `alison97-ciber` |
+
+### 📝 Descrição atual
+
+> 🎓 🚀 Estudante de Análise e Desenvolvimento de Sistemas \| Construindo meu conhecimento em tecnologia
+
+### 📊 Informações atuais do perfil
+
+| Métrica | Quantidade |
+|---|---|
+| 📁 Repositórios públicos | 0 |
+| 👥 Seguidores | 7 |
+| ➡️ Seguindo | 1 |
+| 🏢 Organizações | 0 |
+| ⭐ Projetos com estrela | 0 |
+
+Essas informações mostram que o perfil ainda está no início, mas já começou a receber alguns seguidores.
+
+### 🔎 Análise
+
+Meu GitHub ainda está no começo e ainda não funciona como um portfólio técnico completo, porque não tenho repositórios públicos. Meu próximo passo é criar projetos da faculdade e projetos pessoais, principalmente relacionados a **programação** e **cibersegurança**. Também pretendo deixar os projetos organizados e colocar uma explicação sobre cada um para facilitar o entendimento.
+
+---
+
+## 🌐 Outras Redes e Planejamento
+
+### 📸 Instagram
+
+Meu Instagram é usado principalmente de forma pessoal e, no momento, não possui uma bio ou conteúdo voltado para a área profissional de tecnologia. Por isso, atualmente ele não contribui diretamente para meu posicionamento profissional. No futuro, posso adaptar o perfil caso decida utilizá-lo também para mostrar conteúdos relacionados à minha carreira.
+
+### 🔗 Outras redes profissionais
+
+No momento, meu foco está no **LinkedIn** e no **GitHub**, porque são as plataformas que mais têm relação com minha formação e com a área de tecnologia. Futuramente, também posso utilizar plataformas como **Dev.to**, **Medium**, **Substack** ou criar um portfólio no **Notion** para apresentar projetos, estudos e conteúdos que eu produzir.
+
+---
+
+## 🗺️ Plano de Carreira
+
+### 🌱 Curto prazo (6–12 meses)
+
+Quero fortalecer meus conhecimentos de programação e começar a estudar cibersegurança de forma mais direcionada.
+
+### ⚙️ Médio prazo (1–3 anos)
+
+Quero desenvolver projetos, melhorar meu GitHub e buscar uma oportunidade de estágio ou uma primeira experiência profissional na área de tecnologia.
+
+### 🚀 Longo prazo (3–5 anos ou mais)
+
+Meu objetivo é construir e consolidar minha carreira na área de **cibersegurança**.
+
+---
+
+## 📋 PDI — Plano de Desenvolvimento Individual
+
+Para alcançar esses objetivos, quero desenvolver meus conhecimentos em **programação**, **banco de dados**, **redes** e **cibersegurança**. Também quero criar projetos práticos para montar meu portfólio, manter meu LinkedIn e GitHub atualizados e procurar oportunidades de estágio ou emprego na área.
+
+---
+
+**🤝 Desenvolvimento comportamental**
+
+- **Meta:** manter o desenvolvimento de comunicação, organização, autonomia, colaboração e documentação técnica.
+- **Prazo:** continuamente.
+- **Indicador:** melhoria contínua na comunicação de incidentes, organização das informações, colaboração com equipes e produção de documentação técnica.
+
+  # 📇 Capítulo Individual — Rafael Christian de Araujo Costa
+
+
+## 1. 🔍 Análise do GitHub
+
+### 1.1 🆔 Identificação do perfil
+
+**Usuário:** `Rafael44Christian`
+
+O perfil do GitHub está em fase inicial de construção. Atualmente, possui 5 seguidores, 0 seguindo e nenhum repositório público[cite: 1]. O perfil foi criado em 24 de agosto de 2026.
+
+Por estar no início da graduação em Análise e Desenvolvimento de Sistemas, o GitHub ainda está sendo estruturado como um portfólio técnico. A plataforma poderá ser utilizada para registrar projetos desenvolvidos durante a graduação e, principalmente, projetos relacionados à Cibersegurança.
+
+### 1.2 📁 Repositórios públicos
+
+Atualmente, o perfil possui 0 repositórios públicos e, consequentemente, não existem repositórios fixados ou projetos com estrelas para análise.
+
+Essa situação representa um dos principais pontos de desenvolvimento do perfil. A criação de projetos públicos permitiria demonstrar, de forma prática, os conhecimentos adquiridos.
+
+Considerando o direcionamento do grupo para Cibersegurança, alguns projetos que podem ser desenvolvidos futuramente são:
+
+- 🔐 Sistema simples de autenticação e controle de acesso;
+- 🔑 Aplicação demonstrando armazenamento seguro de senhas;
+- 🛡️ Projeto de segurança de APIs;
+- 🐍 Scripts em Python para automação de tarefas;
+- 🧪 Laboratórios de análise de vulnerabilidades em ambientes controlados;
+- 🐧 Projetos envolvendo Linux, redes e monitoramento.
+
+### 1.3 📈 Evolução de seguidores
+
+O perfil possui atualmente 5 seguidores. Como a conta é recente, ainda não existe um histórico suficiente para identificar uma tendência de crescimento.
+
+O número atual será utilizado como ponto de partida para acompanhar a evolução do perfil ao longo da formação acadêmica e profissional.
+
+O crescimento poderá ocorrer por meio da publicação de projetos, participação em comunidades, contribuições em projetos e interação com outros estudantes e profissionais de tecnologia.
+
+---
+
+## 2. 💼 Análise do LinkedIn
+
+### 2.1 🎯 Cargo-alvo e Stack
+
+O direcionamento profissional definido para este trabalho é a área de **Cibersegurança**.
+
+Como estudante de Análise e Desenvolvimento de Sistemas, o objetivo inicial é construir conhecimentos que possibilitem futuramente buscar posições de entrada relacionadas à Segurança da Informação, como Analista de Cibersegurança Júnior, Analista de Segurança da Informação ou funções de entrada em SOC.
+
+A stack que deverá ser desenvolvida ao longo da formação inclui:
+
+- 🐍 Python;
+- 🐧 Linux;
+- 🌐 Redes de computadores;
+- 🛡️ Segurança da Informação;
+- 🐙 Git e GitHub;
+- ☁️ Cloud Computing;
+- 🔑 Segurança de APIs;
+- 🔒 Autenticação e autorização;
+- 📊 Monitoramento e análise de eventos.
+
+Neste momento, o foco está na construção dos fundamentos técnicos, e não na apresentação de conhecimentos avançados que ainda estão em desenvolvimento.
+
+### 2.2 🏷️ Headline profissional[cite: 1]
+
+A headline é importante porque apresenta rapidamente o direcionamento profissional do perfil e também utiliza palavras-chave que podem facilitar sua identificação em buscas relacionadas à área de tecnologia.
+
+Uma possibilidade de headline alinhada ao objetivo profissional seria:
+
+> 🎓 **Estudante de ADS | Cibersegurança | Python | Redes | Cloud Computing | Buscando oportunidade em Segurança da Informação**
+
+A proposta deixa claro que o perfil está em formação e utiliza termos relacionados à área escolhida pelo grupo.
+
+### 2.3 👥 Crescimento da rede
+
+Atualmente, o LinkedIn apresenta 56 seguidores e 53 conexões.
+
+Esses números representam o ponto de partida para acompanhar a evolução da rede profissional.
+
+Como não foi identificado um histórico público suficiente para comparar diferentes períodos, não é possível afirmar uma taxa de crescimento. Por isso, o acompanhamento futuro poderá considerar a quantidade de conexões, seguidores e interações em diferentes momentos.
+
+A estratégia é ampliar a rede principalmente com estudantes, profissionais de tecnologia, recrutadores e pessoas que atuam em áreas relacionadas a desenvolvimento, infraestrutura, Cloud Computing e Cibersegurança.
+
+### 2.4 📢 Atividade e engajamento
+
+O perfil apresenta atividade relacionada à área de tecnologia. Entre as publicações recentes estão conteúdos sobre microsserviços, Load Balancing, Docker, Cloud Computing, programação e Cibersegurança.
+
+As publicações demonstram que o perfil está sendo utilizado para registrar aprendizados durante a formação acadêmica, em vez de funcionar apenas como um currículo digital.
+
+Como próximo passo, a atividade pode ser direcionada cada vez mais para Cibersegurança, abordando assuntos como redes, Linux, autenticação, segurança de APIs, vulnerabilidades e monitorament.
+
+---
+
+## 3. 🌐 Outras Redes e Plataformas Profissionais
+
+### 3.1 📝 DEV.to
+
+**Perfil:** `@rafael44christian`
+
+O perfil no DEV.to utiliza o mesmo nome de usuário do GitHub. Atualmente, a conta está em fase inicial, tendo sido criada em 24 de agosto de 2026, e ainda não possui uma biografia preenchida.
+
+A plataforma pode ser utilizada como complemento ao GitHub, permitindo registrar conhecimentos e experiências de estudo por meio de artigos e tutoriais.
+
+Entre os possíveis conteúdos estão:
+
+- 🛡️ Fundamentos de Cibersegurança;
+- 🌐 Conceitos de redes;
+- 🔒 Segurança de APIs;
+- 🔑 Autenticação e autorização;
+- 🐧 Linux para iniciantes;
+- 🎓 Projetos desenvolvidos durante a graduação;
+- 🧪 Relatos de laboratórios e aprendizados.
+
+A utilização da plataforma ainda está no início, portanto existe espaço para desenvolver uma presença profissional mais consistente.
+
+### 3.2 📸 Instagram profissional
+
+**Perfil:** `@rafaelchristian534`
+
+Foi criado um novo perfil com finalidade profissional, substituindo o perfil pessoal anteriormente utilizado nesta análise.
+
+Como o perfil é recente e ainda está em construção, não há histórico suficiente para analisar crescimento, frequência de publicações ou engajamento.
+
+A proposta do perfil é criar uma presença profissional complementar às outras plataformas, podendo futuramente apresentar conteúdos relacionados a tecnologia, programação, Cibersegurança, projetos e aprendizados.
+
+A utilização de um perfil separado para essa finalidade também permite manter uma identidade mais direcionada à carreira profissional.
+
+---
+
+## 4. 🗺️ Plano de Carreira
+
+### 4.1 ⏳ Curto prazo — 6 a 12 meses
+
+O objetivo principal neste período é construir uma base técnica para iniciar uma trajetória profissional em Cibersegurança.
+
+**Metas:**
+
+- 🎓 Avançar na graduação em Análise e Desenvolvimento de Sistemas;
+- 🌐 Aprender fundamentos de redes de computadores;
+- 🐧 Aprofundar conhecimentos em Linux;
+- 🐍 Melhorar os conhecimentos em Python;
+- 🛡️ Estudar fundamentos de Segurança da Informação;
+- 🚀 Criar os primeiros projetos públicos no GitHub;
+- 🧪 Realizar laboratórios práticos de Cibersegurança;
+- 💼 Melhorar a presença profissional no LinkedIn;
+- ✍️ Começar a utilizar o DEV.to para documentar aprendizados;
+- 🔍 Buscar oportunidades de entrada na área de tecnologia.
+
+### 4.2 📅 Médio prazo — 1 a 3 anos
+
+Neste período, o objetivo é transformar os conhecimentos adquiridos em experiência prática e profissional.
+
+**Metas:**
+
+- 💼 Buscar uma oportunidade profissional relacionada à tecnologia ou Cibersegurança;
+- 📊 Desenvolver experiência com monitoramento e análise de eventos;
+- 💻 Aprofundar conhecimentos em redes e sistemas operacionais;
+- 🛠️ Conhecer ferramentas utilizadas em ambientes de segurança;
+- 📂 Desenvolver projetos mais completos para o portfólio;
+- 📜 Buscar certificações relacionadas à área;
+- 🤝 Participar de comunidades, eventos e atividades de tecnologia;
+- 🎯 Identificar uma área de especialização dentro da Cibersegurança.
+
+### 4.3 🚀 Longo prazo — 3 a 5 anos ou mais
+
+No longo prazo, o objetivo é atuar profissionalmente em uma área especializada de Cibersegurança.
+
+Algumas possibilidades de especialização que poderão ser avaliadas conforme a experiência adquirida são:
+
+- 🚨 Security Operations Center (SOC);
+- 🛡️ Blue Team;
+- ☁️ Segurança em Cloud;
+- 💻 Segurança de aplicações;
+- 🔍 Análise de vulnerabilidades;
+- ⚠️ Resposta a incidentes.
+
+A escolha da especialização será feita de acordo com as experiências práticas, interesses e oportunidades encontradas ao longo da carreira.
+
+---
+
+## 5. 🎯 PDI — Plano de Desenvolvimento Individual
+
+| Objetivo | Ação | Prazo | Indicador de progresso |
+|---|---|---|---|
+| 🌐 Desenvolver conhecimentos de redes | Estudar TCP/IP, DNS, HTTP, portas, protocolos e modelo OSI | 3 meses | Conseguir explicar e aplicar os principais conceitos |
+| 🐍 Melhorar Python | Criar scripts e pequenos projetos | 6 meses | Publicar projetos no GitHub |
+| 🐧 Aprender Linux | Praticar comandos, permissões, processos e administração básica | 4 meses | Conseguir realizar tarefas básicas sem depender de tutoriais |
+| 🛡️ Estudar Cibersegurança | Aprender fundamentos, vulnerabilidades e mecanismos de proteção | 6 meses | Concluir laboratórios e registrar os aprendizados |
+| 📁 Construir portfólio | Desenvolver projetos relacionados à segurança | 12 meses | Ter projetos públicos documentados no GitHub |
+| 💼 Desenvolver presença profissional | Publicar conteúdos técnicos no LinkedIn e DEV.to | Contínuo | Aumentar a quantidade e consistência das publicações |
+| 🗣️ Desenvolver comunicação | Participar de apresentações, comunidades e discussões técnicas | Contínuo | Conseguir explicar conceitos técnicos de forma clara |
+| 💼 Buscar experiência profissional | Participar de processos seletivos para oportunidades de entrada | 6–12 meses | Participar de processos seletivos e conquistar experiência |
+| 🤝 Desenvolver networking | Conectar-se com profissionais e estudantes da área | Contínuo | Aumentar conexões relacionadas à área de tecnologia |
+
+---
+# 📘  Capítulo Individual — Samuel Carmoni de Oliveira
+
+## 3.1 🔍 Análise do GitHub
+
+**🆔 Identificação do Perfil**
+
+Meu usuário no GitHub é [@carmonisamuel-cloud](https://github.com/carmonisamuel-cloud)[cite: 2]. Ainda não criei o repositório especial de apresentação (`carmonisamuel-cloud/carmonisamuel-cloud`), então meu perfil público hoje não tem uma bio ou README de apresentação.
+
+**📁 Repositórios Públicos**
+
+No momento não tenho nenhum repositório público — nem fixado, nem com estrelas. Meu perfil ainda está no início e ainda não reflete os projetos que já desenvolvi ao longo do curso.
+
+**📈 Evolução de Seguidores**
+
+Hoje tenho 11 seguidores e sigo 22 pessoas. O GitHub não mostra um histórico de evolução desses números, só o valor atual — então não dá pra falar em tendência de crescimento real ainda. É um perfil em construção.
+
+> 💡 Pretendo publicar alguns dos meus projetos da faculdade antes da entrega final, pra essa seção passar a refletir de fato o meu histórico técnico.
+
+---
+
+## 3.2 💼 Análise do LinkedIn
+
+**🎯 Cargo Alvo e Stack**
+
+No meu perfil eu coloquei minha experiência atual: trabalho na Zensho Brasil, na unidade Sukiya, como atendente, e também informei que estudo Análise e Desenvolvimento de Sistemas (ADS) na UNICID. Não tenho nenhuma stack técnica declarada no perfil ainda, nem um cargo-alvo específico (como "estágio em TI") indicado de forma explícita.
+
+**🏷️ Headline Profissional**
+
+Meu headline hoje reflete meu cargo atual (atendente na Zensho Brasil/Sukiya) e minha formação em andamento. Ele descreve onde estou agora, mas não comunica claramente pra onde eu quero ir — não sinaliza que estou buscando uma oportunidade em TI, por exemplo. Um headline mais estratégico poderia deixar isso mais explícito, algo como "Estudante de ADS na UNICID | Buscando oportunidade em TI", em vez de só descrever meu emprego atual.
+
+**👥 Crescimento da Rede**
+
+Hoje tenho 70 conexões e 71 seguidores. Assim como no GitHub, o LinkedIn não me mostra um histórico de evolução desses números — só o total atual. Não dá pra afirmar uma tendência de crescimento, apenas registrar o momento presente: uma rede ainda pequena e em formação.
+
+**📢 Atividade e Engajamento**
+
+Não tenho nenhuma publicação ou comentário no perfil até agora. Minha presença na plataforma é, hoje, passiva — o perfil existe, mas ainda não uso ele ativamente pra me posicionar ou interagir com a comunidade de TI.
+
+---
+## 3.3 🌐 Outras Redes e Planejamento
+
+**📸 Instagram**
+
+Não tenho um Instagram profissional — meu uso da rede é pessoal, sem posicionamento voltado à carreira em TI.
+
+**📝 Outras Redes Profissionais**
+Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ainda sem bio nem publicações. É uma rede que pretendo usar pra compartilhar o que for aprendendo.
+
+**🗺️ Plano de Carreira**
+
+**🎯 Cargo-alvo:** Analista de Segurança da Informação, começando pela porta de entrada mais realista pro meu momento atual — uma vaga de Estágio em Cyber Security ou Analista SOC N1 (nível de monitoramento e resposta inicial a incidentes), como as que mapeamos no Capítulo 1 (ex.: Programa de Estágio Cyber Security da Vita IT e Analista SOC N1 da It4us). Escolhi esse recorte porque "Cibersegurança" sozinha é uma área grande demais pra servir de meta — SOC é o caminho de entrada mais comum pra quem está começando do zero, como é o meu caso hoje.
+
+*⏳ Curto prazo (6 a 12 meses)*
+- 💼 Conquistar um estágio em Cyber Security ou SOC N1, aplicando a base de redes e sistemas operacionais que estou construindo no curso de ADS.
+- 🚀 Publicar meus projetos acadêmicos no GitHub (como o PetCare Manager e o app do MetroScape RPG), transformando o perfil em um portfólio técnico de verdade, e não só uma conta vazia.
+- ✏️ Ajustar meu LinkedIn para deixar claro que estou buscando uma posição de entrada em Cibersegurança/SOC, em vez de só listar meu emprego atual na Sukiya[ci.
+- 📚 Estudar os fundamentos técnicos que ainda não tenho: redes de computadores, noções de Windows e Linux, e conceitos básicos de SIEM — a base mínima pedida até nas vagas de estágio mapeadas.
+
+*📅 Médio prazo (1 a 3 anos)*
+- 🎓 Concluir o curso de ADS na UNICID.
+- 📈 Evoluir de estagiário/SOC N1 para Analista de Segurança da Informação Pleno, ganhando experiência prática com ferramentas de monitoramento (SIEM, EDR) e resposta a incidentes.
+- 📜 Buscar uma certificação de entrada reconhecida pelo mercado, como CompTIA Security+, pra formalizar a base técnica.
+- 🗣️ Usar a experiência que já tenho em atendimento e negociação (Sukiya, Admicon, anos como vendedor autônomo) como diferencial em comunicação de risco pra públicos não técnicos — uma soft skill bem valorizada na área.
+
+*🚀 Longo prazo (3 a 5 anos ou mais)*
+- 🛡️ Me especializar dentro de Cibersegurança — hoje minha maior curiosidade é pelo lado de Blue Team/resposta a incidentes, mas pretendo definir isso com mais clareza conforme ganho experiência prática.
+- 🌍 Buscar inglês técnico mais forte, já que abre porta pra vagas remotas internacionais bem remuneradas, como vimos no mapeamento de mercado do Capítulo 1.
+- 📂 Manter um portfólio técnico ativo (GitHub e dev.to) documentando essa evolução, em vez de algo montado só pra um trabalho da faculdade.
+
+---
+
+**🎯 PDI — Plano de Desenvolvimento Individual**
+
+| Competência | Tipo | Situação atual | Meta | Prazo | Como vou medir |
+|---|---|---|---|---|---|
+| 🌐 Redes de computadores | Hard Skill | Conhecimento básico, ainda em construção pelo curso de ADS | Entender firewalls, VPNs e conceitos de IDS/IPS o suficiente pra passar em entrevista de estágio | 6 meses | Concluir um curso introdutório de redes e simular questões de entrevista da área |
+| 🐧 Sistemas Operacionais (Windows/Linux) | Hard Skill | Uso básico do dia a dia, sem prática administrativa | Saber operar e configurar tarefas básicas em Linux (linha de comando) | 6 meses | Praticar em ambiente virtual (máquina virtual) e documentar no GitHub |
+| 📊 SIEM / noções de SOC | Hard Skill | Nenhum contato prático ainda | Entender o que é um SIEM e como funciona uma triagem básica de alertas | 12 meses | Fazer um curso gratuito introdutório (ex. TryHackMe, Cisco Networking Academy) |
+| 🇬🇧 Inglês técnico | Hard Skill | Nível básico | Ler documentação técnica e descrições de vaga em inglês sem dificuldade | 12 meses | Praticar leitura técnica semanalmente; revisar vocabulário de segurança |
+| 🗣️ Comunicação de risco pra público não técnico | Soft Skill | Já tenho prática de atendimento ao público (Sukiya, vendas autônomas) | Aplicar essa experiência pra explicar conceitos técnicos de forma simples | Contínuo | Buscar situações no curso/projetos onde eu precise explicar algo técnico pra alguém leigo |
+| 🧘 Calma sob pressão | Soft Skill | Desenvolvida em outros contextos de atendimento, ainda não testada em contexto técnico/incidente | Manter clareza ao seguir um processo estruturado (playbook) mesmo sob pressão | Contínuo | Simular cenários de resposta a incidente em labs práticos (ex. CTFs introdutórios) |
+
+*(Este PDI parte da minha situação real hoje — ainda sem experiência formal em Cibersegurança — e usa como referência as competências mapeadas no Capítulo 4 deste trabalho.)*
+
+---
+
