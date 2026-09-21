@@ -28,15 +28,17 @@ Todos os integrantes compartilham o mesmo direcionamento de carreira — **Ciber
 
 ## 📑 Sumário
 
-- [1. Introdução](#1-introdução)
-  - [1.1 📊 Análise de Mercado](#11--análise-de-mercado)
-  - [1.2 🔍 Mapeamento de Vagas](#12--mapeamento-de-vagas)
-  - [1.3 🧠 Mapeamento de Competências](#13--mapeamento-de-competências)
-- [📚 Fontes](#-fontes)
-
+- [1. Introdução](#intro)
+- [2. Capítulos Individuais](#capitulos-individuais)
+  - [2.1 Capítulo Individual — Alessandra Guimarães da Silva](#cap-alessandra)
+  - [2.2 Capítulo Individual — Alison Belen Condori Mayta](#cap-alison)
+  - [2.3 Capítulo Individual — Rafael Christian de Araujo Costa](#cap-rafael)
+  - [2.4 Capítulo Individual — Samuel Carmoni de Oliveira](#cap-samuel)
+- [3. Feedback por Pares](#feedback)
+- [4. Conclusão — Análise de Gaps e Plano de Ação](#conclusao)
 ---
-
-# 1. Introdução
+<a name="intro"></a> 
+# 1.Introdução
 
 🔐 A Cibersegurança deixou de ser uma preocupação restrita aos departamentos de TI e passou a ocupar um lugar central na estratégia das organizações. Com o aumento constante de vazamentos de dados, ataques de ransomware e fraudes digitais, empresas de todos os portes — de startups a grandes bancos — têm investido pesado na proteção de seus sistemas e informações. Esse cenário torna a área uma das mais promissoras do mercado de tecnologia no Brasil, tanto pela demanda crescente por profissionais quanto pelos salários competitivos oferecidos mesmo para quem está no início de carreira.
 
@@ -47,7 +49,8 @@ Este capítulo apresenta:
 - 🧠 um **levantamento das competências** técnicas (hard skills) e comportamentais (soft skills) exigidas em cada um desses perfis.
 
 ---
-## 1.1 📊 Análise de Mercado
+
+## 1.1📊 Análise de Mercado
 
 O mercado brasileiro de Cibersegurança vive um momento de forte aquecimento, impulsionado pelo aumento de ataques digitais contra empresas e órgãos públicos e pela crescente exigência de conformidade com leis como a LGPD.
 
@@ -179,7 +182,7 @@ Esta subseção conecta a Seção 1.2 (vagas reais) à Seção 1.3. As competên
 
 ---
 
-# 📚 Fontes
+# 1.4📚 Fontes
 
 **Vagas (consulta em setembro/2026):**
 
@@ -199,12 +202,13 @@ Esta subseção conecta a Seção 1.2 (vagas reais) à Seção 1.3. As competên
 
 - 🌎 Nomad Global — [Hard skills mais procuradas no mercado internacional](https://www.nomadglobal.com/conteudos/hard-skills-mais-procuradas)
 - 🧠 CECyber — [Habilidades necessárias para atuar em cibersegurança](https://cecyber.com/blog/quais-habilidades-sao-necessarias-para-trabalhar-em-seguranca-cibernetica/)
+  
+<a name="capitulos-individuais"></a>
+# 2.Capítulos Individuais
 
-# Capítulos Individuais
 
-
-
-# 📇 Capítulo Individual — Alessandra Guimarães da Silva
+<a name="cap-alessandra"></a>
+# 2.1📇 Capítulo Individual — Alessandra Guimarães da Silva
 
 > Análise do GitHub, LinkedIn, Instagram, DEV.to, Plano de Carreira e PDI
 
@@ -674,7 +678,8 @@ Essa mudança demonstra uma maior participação na comunidade, não apenas por 
 - **Prazo:** a partir de 2032, continuamente.
 - **Indicador:** evolução contínua em SIEM, detecção, investigação, resposta a incidentes, EDR/XDR, análise de logs e automação.
 
-   # 📇 Capítulo Individual — Alison Belen Condori Mayta
+<a name="cap-alison"></a>
+# 2.2 📇 Capítulo Individual — Alison Belen Condori Mayta
 
 > Análise do LinkedIn, GitHub, Outras Redes e Planejamento
 
@@ -773,12 +778,13 @@ Para alcançar esses objetivos, quero desenvolver meus conhecimentos em **progra
 - **Prazo:** continuamente.
 - **Indicador:** melhoria contínua na comunicação de incidentes, organização das informações, colaboração com equipes e produção de documentação técnica.
 
-  # 📇 Capítulo Individual — Rafael Christian de Araujo Costa
+<a name="cap-rafael"></a>
+# 2.3📇 Capítulo Individual — Rafael Christian de Araujo Costa
 
 
-## 1. 🔍 Análise do GitHub
+## 🔍 Análise do GitHub
 
-### 1.1 🆔 Identificação do perfil
+### 🆔 Identificação do perfil
 
 **Usuário:** `Rafael44Christian`
 
@@ -786,7 +792,7 @@ O perfil do GitHub está em fase inicial de construção. Atualmente, possui 5 s
 
 Por estar no início da graduação em Análise e Desenvolvimento de Sistemas, o GitHub ainda está sendo estruturado como um portfólio técnico. A plataforma poderá ser utilizada para registrar projetos desenvolvidos durante a graduação e, principalmente, projetos relacionados à Cibersegurança.
 
-### 1.2 📁 Repositórios públicos
+### 📁 Repositórios públicos
 
 Atualmente, o perfil possui 0 repositórios públicos e, consequentemente, não existem repositórios fixados ou projetos com estrelas para análise.
 
@@ -801,7 +807,7 @@ Considerando o direcionamento do grupo para Cibersegurança, alguns projetos que
 - 🧪 Laboratórios de análise de vulnerabilidades em ambientes controlados;
 - 🐧 Projetos envolvendo Linux, redes e monitoramento.
 
-### 1.3 📈 Evolução de seguidores
+### 📈 Evolução de seguidores
 
 O perfil possui atualmente 5 seguidores. Como a conta é recente, ainda não existe um histórico suficiente para identificar uma tendência de crescimento.
 
@@ -811,9 +817,9 @@ O crescimento poderá ocorrer por meio da publicação de projetos, participaç�
 
 ---
 
-## 2. 💼 Análise do LinkedIn
+## 💼 Análise do LinkedIn
 
-### 2.1 🎯 Cargo-alvo e Stack
+### 🎯 Cargo-alvo e Stack
 
 O direcionamento profissional definido para este trabalho é a área de **Cibersegurança**.
 
@@ -833,7 +839,7 @@ A stack que deverá ser desenvolvida ao longo da formação inclui:
 
 Neste momento, o foco está na construção dos fundamentos técnicos, e não na apresentação de conhecimentos avançados que ainda estão em desenvolvimento.
 
-### 2.2 🏷️ Headline profissional[cite: 1]
+### 🏷️ Headline profissional[cite: 1]
 
 A headline é importante porque apresenta rapidamente o direcionamento profissional do perfil e também utiliza palavras-chave que podem facilitar sua identificação em buscas relacionadas à área de tecnologia.
 
@@ -843,7 +849,7 @@ Uma possibilidade de headline alinhada ao objetivo profissional seria:
 
 A proposta deixa claro que o perfil está em formação e utiliza termos relacionados à área escolhida pelo grupo.
 
-### 2.3 👥 Crescimento da rede
+### 👥 Crescimento da rede
 
 Atualmente, o LinkedIn apresenta 56 seguidores e 53 conexões.
 
@@ -853,7 +859,7 @@ Como não foi identificado um histórico público suficiente para comparar difer
 
 A estratégia é ampliar a rede principalmente com estudantes, profissionais de tecnologia, recrutadores e pessoas que atuam em áreas relacionadas a desenvolvimento, infraestrutura, Cloud Computing e Cibersegurança.
 
-### 2.4 📢 Atividade e engajamento
+### 📢 Atividade e engajamento
 
 O perfil apresenta atividade relacionada à área de tecnologia. Entre as publicações recentes estão conteúdos sobre microsserviços, Load Balancing, Docker, Cloud Computing, programação e Cibersegurança.
 
@@ -863,9 +869,9 @@ Como próximo passo, a atividade pode ser direcionada cada vez mais para Ciberse
 
 ---
 
-## 3. 🌐 Outras Redes e Plataformas Profissionais
+## 🌐 Outras Redes e Plataformas Profissionais
 
-### 3.1 📝 DEV.to
+### 📝 DEV.to
 
 **Perfil:** `@rafael44christian`
 
@@ -885,7 +891,7 @@ Entre os possíveis conteúdos estão:
 
 A utilização da plataforma ainda está no início, portanto existe espaço para desenvolver uma presença profissional mais consistente.
 
-### 3.2 📸 Instagram profissional
+### 📸 Instagram profissional
 
 **Perfil:** `@rafaelchristian534`
 
@@ -899,9 +905,9 @@ A utilização de um perfil separado para essa finalidade também permite manter
 
 ---
 
-## 4. 🗺️ Plano de Carreira
+## 🗺️ Plano de Carreira
 
-### 4.1 ⏳ Curto prazo — 6 a 12 meses
+### ⏳ Curto prazo — 6 a 12 meses
 
 O objetivo principal neste período é construir uma base técnica para iniciar uma trajetória profissional em Cibersegurança.
 
@@ -918,7 +924,7 @@ O objetivo principal neste período é construir uma base técnica para iniciar 
 - ✍️ Começar a utilizar o DEV.to para documentar aprendizados;
 - 🔍 Buscar oportunidades de entrada na área de tecnologia.
 
-### 4.2 📅 Médio prazo — 1 a 3 anos
+### 📅 Médio prazo — 1 a 3 anos
 
 Neste período, o objetivo é transformar os conhecimentos adquiridos em experiência prática e profissional.
 
@@ -933,7 +939,7 @@ Neste período, o objetivo é transformar os conhecimentos adquiridos em experi�
 - 🤝 Participar de comunidades, eventos e atividades de tecnologia;
 - 🎯 Identificar uma área de especialização dentro da Cibersegurança.
 
-### 4.3 🚀 Longo prazo — 3 a 5 anos ou mais
+### 🚀 Longo prazo — 3 a 5 anos ou mais
 
 No longo prazo, o objetivo é atuar profissionalmente em uma área especializada de Cibersegurança.
 
@@ -950,7 +956,7 @@ A escolha da especialização será feita de acordo com as experiências prátic
 
 ---
 
-## 5. 🎯 PDI — Plano de Desenvolvimento Individual
+## 🎯 PDI — Plano de Desenvolvimento Individual
 
 | Objetivo | Ação | Prazo | Indicador de progresso |
 |---|---|---|---|
@@ -965,9 +971,11 @@ A escolha da especialização será feita de acordo com as experiências prátic
 | 🤝 Desenvolver networking | Conectar-se com profissionais e estudantes da área | Contínuo | Aumentar conexões relacionadas à área de tecnologia |
 
 ---
-# 📘  Capítulo Individual — Samuel Carmoni de Oliveira
 
-## 3.1 🔍 Análise do GitHub
+<a name="cap-samuel"></a>
+# 2.4📘  Capítulo Individual — Samuel Carmoni de Oliveira
+
+## 🔍 Análise do GitHub
 
 **🆔 Identificação do Perfil**
 
@@ -985,7 +993,7 @@ Hoje tenho 11 seguidores e sigo 22 pessoas. O GitHub não mostra um histórico d
 
 ---
 
-## 3.2 💼 Análise do LinkedIn
+## 💼 Análise do LinkedIn
 
 **🎯 Cargo Alvo e Stack**
 
@@ -1004,7 +1012,7 @@ Hoje tenho 70 conexões e 71 seguidores. Assim como no GitHub, o LinkedIn não m
 Não tenho nenhuma publicação ou comentário no perfil até agora. Minha presença na plataforma é, hoje, passiva — o perfil existe, mas ainda não uso ele ativamente pra me posicionar ou interagir com a comunidade de TI.
 
 ---
-## 3.3 🌐 Outras Redes e Planejamento
+## 🌐 Outras Redes e Planejamento
 
 **📸 Instagram**
 
@@ -1050,7 +1058,9 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 *(Este PDI parte da minha situação real hoje — ainda sem experiência formal em Cibersegurança — e usa como referência as competências mapeadas no Capítulo 4 deste trabalho.)*
 
 ---
-# 💬 Feedback por Pares
+
+<a name="feedback"></a>
+# 3.💬 Feedback por Pares
 
 ---
 ## 👤 Feedback para Alessandra Guimarães
@@ -1149,13 +1159,14 @@ Criei recentemente um perfil no [dev.to](https://dev.to/samuel_carmoni), mas ain
 
 ---
 
-# 🏁 Conclusão — Análise de Gaps e Plano de Ação
+<a name="conclusao"></a>
+# 4.🏁 Conclusão — Análise de Gaps e Plano de Ação
 
 Este capítulo conecta os perfis individuais (Capítulos Individuais) à realidade do mercado mapeada no Capítulo 1. O objetivo é responder a três perguntas: **onde o grupo está hoje**, **o que as empresas de Cibersegurança em São Paulo capital realmente exigem** e **o que cada integrante precisa fazer, e até quando, para fechar a distância entre as duas coisas**.
 
 ---
 
-## 🤝 Análise Conjunta
+## 4.1🤝 Análise Conjunta
 
 ### 📌 Síntese dos perfis
 
@@ -1185,7 +1196,7 @@ Este capítulo conecta os perfis individuais (Capítulos Individuais) à realida
 - **Definição da porta de entrada:** Alessandra, Rafael e Samuel citam funções específicas (SOC Júnior, SOC N1, Estágio Cyber). Alison ainda não definiu (feedback recebido de Samuel).
 
 ---
-## 📊 Comparação com o Mercado
+## 4.2📊 Comparação com o Mercado
 
 Esta seção cruza o que as vagas de São Paulo capital exigem (Seção 1.2 e 1.3) com o que os planos e PDIs do grupo contemplam.
 
@@ -1224,7 +1235,7 @@ A proporção entre vagas de especialista e vagas de estágio é de **mais de 10
 - O plano de Alessandra concentra a preparação específica de SOC (Cyber Security 101, SOC Level 1, SIEM) em **2028**, depois da graduação. Como as vagas de estágio do mercado já pedem noções de SIEM e laboratórios, **antecipar parte dessa preparação para 2027** aproxima o plano da realidade das vagas.
 
 ---
-##  🕳️ Identificação de Gaps
+##  4.3🕳️ Identificação de Gaps
 
 Os gaps abaixo são as lacunas entre a situação atual do grupo (Seção 4.1) e as exigências reais das empresas (Seção 4.2). Estão ordenados por **prioridade**, considerando impacto na empregabilidade e urgência.
 
@@ -1241,7 +1252,7 @@ Os gaps abaixo são as lacunas entre a situação atual do grupo (Seção 4.1) e
 | **G9** | **Especialização ainda em aberto** | Vagas plenas e sêniores pedem AppSec, IAM/PAM, Network Security ou GRC; Rafael lista seis possibilidades sem escolher | Rafael, Alison | 🟢 Baixa (curto prazo) |
 
 ---
-## 🚀 Plano de Ação
+## 4.4🚀 Plano de Ação
 
 Cada ação abaixo é **específica**, tem **prazo** e um **indicador mensurável**. Os prazos partem de setembro/2026 e foram pensados para caber na rotina de quem estuda e, em alguns casos, já trabalha.
 
@@ -1308,4 +1319,5 @@ Cada ação abaixo é **específica**, tem **prazo** e um **indicador mensuráve
 ### 🧭 Considerações finais
 
 O mercado de Cibersegurança em São Paulo é grande, mas a base da pirâmide é estreita: as vagas de entrada são poucas e o filtro é a **prova prática**. O ponto mais forte do grupo é a **coerência de direção** (todos convergem para Blue Team/SOC) e a **capacidade de autocrítica**, visível nos capítulos individuais e no feedback por pares. O ponto mais fraco é o **portfólio técnico**, hoje inexistente em Cibersegurança. Fechar esse gap nos próximos três meses, com laboratórios documentados, é a ação que mais aproxima cada integrante das exigências reais das empresas.
+
 ---
