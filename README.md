@@ -1185,4 +1185,127 @@ Este capítulo conecta os perfis individuais (Capítulos Individuais) à realida
 - **Definição da porta de entrada:** Alessandra, Rafael e Samuel citam funções específicas (SOC Júnior, SOC N1, Estágio Cyber). Alison ainda não definiu (feedback recebido de Samuel).
 
 ---
+## 📊 Comparação com o Mercado
 
+Esta seção cruza o que as vagas de São Paulo capital exigem (Seção 1.2 e 1.3) com o que os planos e PDIs do grupo contemplam.
+
+### 🌐 Contexto de mercado
+
+| Dado do mercado (Glassdoor, set/2026) | Valor |
+|---|---|
+| Especialista em Segurança da Informação — São Paulo | 780 vagas |
+| Analista SOC — São Paulo | 88 vagas |
+| Analista de Cibersegurança Júnior — São Paulo | 13 vagas |
+| Estágio em Cibersegurança — São Paulo | **7 vagas** |
+| Faixa salarial de entrada (estágio/júnior) | R$ 4.000 – R$ 9.000 |
+| Faixa salarial pleno | R$ 9.000 – R$ 16.000 |
+
+A proporção entre vagas de especialista e vagas de estágio é de **mais de 100 para 1**. O mercado está contratando muito, mas principalmente quem já tem experiência ou uma prova prática equivalente.
+
+### 🧩 Cruzamento: exigência do mercado × planos do grupo
+
+| Competência exigida nas vagas | Onde aparece no mercado | Situação nos planos do grupo | Avaliação |
+|---|---|---|---|
+| **Redes de computadores** (TCP/IP, firewall, WAN) | Todos os níveis; base de estágio a sênior | Presente nos quatro PDIs (Cisco Networking Academy, estudo de TCP/IP, DNS, portas) | ✅ Coberto |
+| **Sistemas operacionais** (Linux/Windows) | Base comum a todos os cargos | Linux nos quatro planos; Windows só no de Alessandra (2027) | 🟡 Parcial |
+| **SIEM** | Presente nos quatro níveis de SOC mapeados | Alessandra: aprofundar em 2028–2029. Samuel: noções em até 12 meses. Rafael: "monitoramento e análise de eventos" sem ferramenta definida. Alison: ausente | 🔴 Tarde ou vago |
+| **Prática em laboratórios / CTFs** | Diferencial explícito na vaga de estágio da Vita IT | TryHackMe citado por Alessandra e Samuel; Rafael cita laboratórios de forma genérica; Alison apenas "projetos práticos" | 🟡 Parcial |
+| **Inglês técnico** | Exigido na vaga de estágio (leitura técnica); essencial em ferramentas e vagas internacionais | Só Samuel tem meta específica de inglês | 🔴 Lacuna em 3 de 4 |
+| **Frameworks e normas** (ISO 27001, NIST, LGPD) | Já cobrados no nível júnior das vagas de Segurança da Informação | Nenhum PDI menciona ISO 27001, NIST ou LGPD (Alessandra cita MITRE ATT&CK, que é um framework de táticas de ataque, não de conformidade) | 🔴 Lacuna nos quatro |
+| **Certificações** (Security+, CISSP, etc.) | Valorizadas pelo mercado | Alessandra: CCST (2029) e Security+ (2030). Samuel: Security+ em 1 a 3 anos. Rafael: "buscar certificações", sem definir qual. Alison: ausente | 🟡 Parcial e sem data firme |
+| **Python / automação** | Aparece em vaga sênior (Tempest) e em rotinas de segurança | Presente nos quatro planos | ✅ Coberto |
+| **Especialização** (AppSec, IAM/PAM, GRC, Network Security) | Exigida a partir do nível pleno e sênior | Rafael lista possibilidades sem escolher; os demais focam em SOC/Blue Team | 🟡 Definir a partir do júnior |
+| **Soft skills** (comunicação, trabalho em equipe, pensamento analítico, calma sob pressão) | Explícitas na vaga de SOC pleno; curiosidade e aprendizado na de estágio | Presentes nos PDIs, mais estruturados em Alessandra, Samuel e Rafael | ✅ Bem coberto |
+| **Experiência prática / estágio** | 7 vagas de estágio contra 780 de especialista | Alessandra e Samuel planejam candidaturas ativas; Rafael e Alison a médio prazo | 🟡 Depende de ação imediata |
+
+### ⏱️ Ponto de atenção: o cronograma frente ao mercado
+
+- A vaga de estágio da **Vita IT** (Vivo Vita) pede aluno **no penúltimo ano** da graduação, com **conceitos básicos de redes e segurança**, **inglês para leitura técnica** e, como diferencial, **CTFs, hackathons ou laboratórios**. Ou seja, o grupo já está no momento de disputar esse tipo de vaga, mas ainda **sem o diferencial (labs públicos e documentados) que a própria vaga cita**.
+- O plano de Alessandra concentra a preparação específica de SOC (Cyber Security 101, SOC Level 1, SIEM) em **2028**, depois da graduação. Como as vagas de estágio do mercado já pedem noções de SIEM e laboratórios, **antecipar parte dessa preparação para 2027** aproxima o plano da realidade das vagas.
+
+---
+##  🕳️ Identificação de Gaps
+
+Os gaps abaixo são as lacunas entre a situação atual do grupo (Seção 4.1) e as exigências reais das empresas (Seção 4.2). Estão ordenados por **prioridade**, considerando impacto na empregabilidade e urgência.
+
+| # | Gap | Evidência | Quem é afetado | Prioridade |
+|---|---|---|---|---|
+| **G1** | **Ausência de portfólio técnico em Cibersegurança** | 3 perfis com 0 repositórios; único repositório existente é de UX/UI | Todos | 🔴 Alta |
+| **G2** | **Falta de experiência prática e de vaga de entrada definida** | Só 7 vagas de estágio na capital; nenhum integrante tem experiência em TI/segurança; Alison sem porta de entrada definida | Todos (mais Alison e Rafael) | 🔴 Alta |
+| **G3** | **Nenhum contato prático com SIEM** | SIEM aparece nos 4 níveis de SOC; no grupo, é tema de 2028 (Alessandra), "noções" (Samuel) ou está ausente (Alison, Rafael) | Todos | 🔴 Alta |
+| **G4** | **Frameworks e normas (ISO 27001, NIST, LGPD) ausentes dos PDIs** | Já são cobrados no nível júnior de Segurança da Informação | Todos | 🔴 Alta |
+| **G5** | **Inglês técnico sem meta em 3 dos 4 PDIs** | Exigido no estágio (leitura técnica) e essencial em ferramentas e vagas internacionais | Alessandra, Alison, Rafael | 🟡 Média |
+| **G6** | **Certificação sem escolha e sem data** | Security+ citado por dois integrantes, mas sem prazo firme; Rafael e Alison sem definição | Alison, Rafael (e prazos de Alessandra e Samuel) | 🟡 Média |
+| **G7** | **Presença digital inconsistente** | Alison: 0 publicações; Samuel: headline descreve o emprego atual e 0 publicações; Rafael: DEV.to sem bio e GitHub vazio; Alessandra: 1 publicação em cada rede | Todos, em graus diferentes | 🟡 Média |
+| **G8** | **PDI sem prazos e indicadores mensuráveis** | PDI de Alison é descritivo, sem prazos nem indicadores (apontado pelos três pares) | Alison | 🟡 Média |
+| **G9** | **Especialização ainda em aberto** | Vagas plenas e sêniores pedem AppSec, IAM/PAM, Network Security ou GRC; Rafael lista seis possibilidades sem escolher | Rafael, Alison | 🟢 Baixa (curto prazo) |
+
+---
+## 🚀 Plano de Ação
+
+Cada ação abaixo é **específica**, tem **prazo** e um **indicador mensurável**. Os prazos partem de setembro/2026 e foram pensados para caber na rotina de quem estuda e, em alguns casos, já trabalha.
+
+### 👥 Ações do grupo (todos os integrantes)
+
+| # | Ação | Gap | Prazo | Indicador |
+|---|---|---|---|---|
+| A1 | Estudar fundamentos de **ISO/IEC 27001, NIST e LGPD** e produzir um resumo de 1 página por norma, publicado no GitHub ou no DEV.to | G4 | Até 31/01/2027 | 3 resumos publicados por integrante |
+| A2 | Criar um **repositório de laboratórios de Cibersegurança** (write-ups de TryHackMe, scripts Python, labs de Linux e redes), com README padronizado | G1 | Primeiro repositório até 30/11/2026 | ≥ 1 repositório público por integrante, com README explicando objetivo, ferramentas e resultado |
+| A3 | Manter **1 write-up ou artigo por mês** no GitHub e/ou DEV.to | G1, G7 | Mensal, a partir de out/2026 | ≥ 6 publicações por integrante até mar/2027 |
+| A4 | **Revisão mensal do grupo**: cada integrante apresenta o que concluiu, o que atrasou e o que muda no mês seguinte | Todos | Última semana de cada mês | Ata curta registrada por commit no repositório do grupo |
+| A5 | Fazer **1 laboratório de SIEM** (por exemplo, Wazuh em máquina virtual, ou os módulos de SOC do TryHackMe), documentado passo a passo | G3 | Até 31/03/2027 | Laboratório documentado e publicado; capacidade de explicar triagem de alertas |
+| A6 | Reservar **30 minutos semanais** para leitura de documentação técnica ou descrições de vaga em inglês | G5 | A partir de out/2026, contínuo | 1 resumo em inglês por mês (mesmo que curto) |
+
+### 👩‍💻 Alessandra Guimarães da Silva — Analista de SOC
+
+| # | Ação | Gap | Prazo | Indicador |
+|---|---|---|---|---|
+| AL1 | **Antecipar** parte da trilha de SOC (Cyber Security 101 e módulos introdutórios de SOC Level 1) para o primeiro semestre de 2027, em vez de 2028, ajustando ao volume da graduação | G3 | Jan–jun/2027 | Trilha concluída e ≥ 3 write-ups publicados no GitHub |
+| AL2 | Criar um **projeto de Cibersegurança** no GitHub (análise de logs simples ou script Python para leitura de logs) | G1 | 31/12/2026 | 1 repositório com README e código funcional |
+| AL3 | Candidatar-se a **10 vagas por mês** de estágio em TI, Suporte, Redes, Infraestrutura, Segurança da Informação e Cibersegurança | G2 | Mensal, a partir de out/2026 | Planilha de candidaturas com 10 registros por mês e retornos anotados |
+| AL4 | Incluir **NIST Cybersecurity Framework** e conceitos de resposta a incidentes na rotina de estudo | G4 | Até 31/03/2027 | Resumo publicado e ciclo de resposta a incidentes explicado em um laboratório |
+| AL5 | Transformar a publicação mensal no LinkedIn, Instagram e DEV.to em **um único conteúdo adaptado** para as três redes | G7 | Mensal | ≥ 1 publicação por mês em cada rede |
+
+### 🧑‍💻 Alison Belen Condori Mayta — Cibersegurança
+
+| # | Ação | Gap | Prazo | Indicador |
+|---|---|---|---|---|
+| AB1 | **Reescrever o PDI** com prazo e indicador para cada meta (formato de tabela, como o de Rafael e o de Samuel) | G8 | 15/10/2026 | PDI com ≥ 8 metas, todas com data e indicador |
+| AB2 | **Definir a porta de entrada** entre Suporte de TI, Estágio em TI/Segurança e SOC N1, com justificativa baseada nas vagas do Capítulo 1 | G2, G9 | 31/10/2026 | Parágrafo de decisão inserido no Plano de Carreira |
+| AB3 | Criar **2 repositórios públicos** (exercício de lógica em Python e anotações de redes) com README | G1 | 30/11/2026 | 2 repositórios publicados e fixados no perfil |
+| AB4 | Concluir uma **trilha introdutória de Cibersegurança** (Cisco Networking Academy ou TryHackMe Pre Security) | G3 | 31/01/2027 | Certificado ou trilha concluída, anotações no GitHub |
+| AB5 | **Atualizar a headline do LinkedIn** com palavras-chave (Cibersegurança, Redes, Python, Linux), publicar 3 posts e chegar a 30 conexões da área | G7 | Headline até 30/09/2026; posts e conexões até 31/12/2026 | Headline atualizada; 3 posts; 30 conexões (recrutadores e profissionais de TI/segurança) |
+| AB6 | Escolher **1 certificação-alvo** (por exemplo, CompTIA Security+) e definir o semestre de prova | G6 | 30/06/2027 | Certificação escolhida, cronograma de estudo e custo estimado |
+
+### 🧑‍💻 Rafael Christian de Araujo Costa — Cibersegurança
+
+| # | Ação | Gap | Prazo | Indicador |
+|---|---|---|---|---|
+| RC1 | **Publicar 3 repositórios** planejados no capítulo (scripts Python de automação, laboratório de Linux/redes e um projeto simples de autenticação e controle de acesso), com README | G1 | 31/12/2026 | 3 repositórios públicos; pelo menos 1 fixado |
+| RC2 | Criar o **repositório de perfil** (`Rafael44Christian/Rafael44Christian`) com README de apresentação (sugestão de Alessandra) | G1, G7 | 31/10/2026 | README publicado |
+| RC3 | Preencher a **bio do DEV.to** e transformar as postagens do LinkedIn (Docker, Cloud, Cibersegurança) em **artigos aprofundados** | G7 | Bio até 30/09/2026; 1 artigo por mês | Bio preenchida; ≥ 5 artigos até mar/2027 |
+| RC4 | Definir **ferramenta e projeto de monitoramento** (por exemplo, Wazuh) no lugar de "monitoramento e análise de eventos" | G3 | 31/03/2027 | Laboratório de monitoramento publicado |
+| RC5 | **Escolher a certificação-alvo** e agendar prova | G6 | Escolha até 31/03/2027; prova até 31/12/2027 | Certificado obtido ou prova agendada |
+| RC6 | Escolher a **primeira especialização** entre SOC, Cloud Security e AppSec, com base nas vagas plenas do Capítulo 1 | G9 | 30/06/2027 | Decisão registrada no Plano de Carreira |
+
+### 🧑‍💻 Samuel Carmoni de Oliveira — Analista de Segurança da Informação
+
+| # | Ação | Gap | Prazo | Indicador |
+|---|---|---|---|---|
+| SC1 | **Reescrever a headline do LinkedIn** para sinalizar a busca por TI/Cibersegurança e ativar **"Open to Work"** para Estágio em TI/Segurança | G7 | 30/09/2026 | Headline atualizada; recurso ativado |
+| SC2 | **Publicar no GitHub** os projetos acadêmicos citados (PetCare Manager e o app do MetroScape RPG), com README explicando objetivo, stack e como executar | G1 | 31/10/2026 | 2 repositórios públicos com README |
+| SC3 | Criar o **repositório especial de perfil** (`carmonisamuel-cloud/carmonisamuel-cloud`) e preencher a **bio do DEV.to** | G1, G7 | 31/10/2026 | README e bio publicados |
+| SC4 | Concluir **curso introdutório de redes** e **1 laboratório em Linux** em máquina virtual, documentado no GitHub | G3 | 31/03/2027 | Curso concluído; laboratório documentado |
+| SC5 | Fazer a **primeira publicação no LinkedIn** conectando a experiência de atendimento à comunicação de risco em Cibersegurança, e depois **1 publicação por mês** | G7 | Primeira até 31/10/2026 | ≥ 6 publicações até mar/2027 |
+| SC6 | Candidatar-se a **10 vagas por mês** de Estágio em TI/Cyber Security/SOC N1 e agendar o **Security+** dentro do plano de 1 a 3 anos | G2, G6 | Candidaturas mensais desde out/2026; prova agendada até 31/12/2027 | Planilha de candidaturas; data de prova definida |
+
+### 📈 Como o grupo vai acompanhar o progresso
+
+- **Revisão mensal (A4)**, com registro por commit no repositório do trabalho, o que também deixa a contribuição individual rastreável.
+- **Marcos de verificação:** 31/12/2026 (portfólio inicial e presença digital), 31/03/2027 (SIEM e frameworks) e 30/06/2027 (certificação e especialização escolhidas).
+- **Critério de sucesso do primeiro ano:** cada integrante com **≥ 1 projeto público de Cibersegurança**, **≥ 6 publicações técnicas**, **1 laboratório de SIEM documentado** e **candidaturas ativas** para estágios e vagas de entrada.
+
+### 🧭 Considerações finais
+
+O mercado de Cibersegurança em São Paulo é grande, mas a base da pirâmide é estreita: as vagas de entrada são poucas e o filtro é a **prova prática**. O ponto mais forte do grupo é a **coerência de direção** (todos convergem para Blue Team/SOC) e a **capacidade de autocrítica**, visível nos capítulos individuais e no feedback por pares. O ponto mais fraco é o **portfólio técnico**, hoje inexistente em Cibersegurança. Fechar esse gap nos próximos três meses, com laboratórios documentados, é a ação que mais aproxima cada integrante das exigências reais das empresas.
+---
